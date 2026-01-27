@@ -36,7 +36,7 @@ jobs:
         file_path: "./.github/release.json"
 
 
-    - name: Load system manifest
+    - name: Load module manifest
       id: manifest
       uses: ActionsTools/read-json-action@main
       with:
@@ -48,7 +48,7 @@ jobs:
     # Tag name: ${{ env.TAG_NAME }}
     # Zip name: ${{ env.ZIP_NAME }}
     # Expected Release Download URL: ${{ env.RELEASE_DOWNLOAD_URL }}
-    # Expected Release system.json URL: ${{ env.RELEASE_INSTALL_URL }}
+    # Expected Release module.json URL: ${{ env.RELEASE_INSTALL_URL }}
     - name: Set up variables
       id: get_vars
       run: |
@@ -63,7 +63,7 @@ jobs:
         echo "RELEASE_INSTALL_URL=https://github.com/${{ github.repository }}/releases/download/$TAG/$PACKAGE_TYPE.json" >> $GITHUB_ENV
 
 
-    # Run some tests to make sure our `system.json` is correct
+    # Run some tests to make sure our `module.json` is correct
     # Exit before setting up node if not
     - name: Verify correct naming
       env:
@@ -99,7 +99,7 @@ jobs:
     - name: Adjust manifest
       uses: TomaszKandula/variable-substitution@v1.0.2
       with:
-        files: "system.json"
+        files: "module.json"
       env:
         flags.hotReload: false
 
