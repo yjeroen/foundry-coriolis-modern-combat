@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "E:/FoundryVTT-Dev/v13-dev/App/resources/app"
+		}
+	],
+	"settings": 
+	{
+		"files.associations": {
+			"*.html": "handlebars"
+		},
+		"prettier.tabWidth": 4,
+		"files.exclude": {
+			"node_modules": true,
+			"dist": true,
+		}
+	}	
+}

@@ -1,0 +1,98 @@
+![LOGO](https://github.com/yjeroen/foundry-coriolis-modern-combat/blob/main/.github/images/logo.jpg?raw=true)
+
+# Foundry VTT - Coriolis Modern Combat 
+
+![Coriolis Modern Combat Module](https://img.shields.io/badge/dynamic/json.svg?url=https://raw.githubusercontent.com/yjeroen/foundry-coriolis-modern-combat/refs/heads/main/module.json&label=Coriolis%20Modern%20Combat%20Module&query=$.version&colorB=blue&logo=sega&logoColor=white)
+![FoundryVTT Verified](https://img.shields.io/badge/dynamic/json.svg?url=https://raw.githubusercontent.com/yjeroen/foundry-coriolis-modern-combat/refs/heads/main/module.json&label=FoundryVTT%20Verified&query=$.compatibility.verified&colorB=green&logo=roll20)
+![FoundryVTT Supported](https://img.shields.io/endpoint?url=https://foundryshields.com/version?url=https://raw.githubusercontent.com/yjeroen/foundry-coriolis-modern-combat/refs/heads/main/module.json&label=FoundryVTT%20Supported&colorB=green)
+
+![GitHub Release Date](https://img.shields.io/github/release-date/yjeroen/foundry-coriolis-modern-combat?color=blue)
+[![GitHub commits](https://img.shields.io/github/commits-since/yjeroen/foundry-coriolis-modern-combat/latest)](https://github.com/xyjeroen/foundry-coriolis-modern-combat/commits/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+![GitHub contributors](https://img.shields.io/github/contributors/yjeroen/foundry-coriolis-modern-combat)
+
+![GitHub downloads](https://img.shields.io/github/downloads/yjeroen/foundry-coriolis-modern-combat/total?label=Downloads)
+![GitHub downloads Latest](https://img.shields.io/github/downloads/yjeroen/foundry-coriolis-modern-combat/latest/total?label=Downloads%20Latest%20Release)
+![Forge installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https://forge-vtt.com/api/bazaar/package/coriolis-modern-combat)
+
+_Oye Zenithians and Firstcome!_ This is a module for the RPG System `Coriolis: The Third Horizon`, for [Foundry Virtual Tabletop](http://foundryvtt.com). This module implements the alternative `Modern Combat` rules. 
+
+> _Welcome to the Third Horizon, traveler of the stars. Along your journey, you will experience marvelous things. Ahead lies intrigue and the Dark between the Stars. The struggle for the Horizon has started – only the Icons themselves know how it will end._
+
+This expansion modernizes the `Coriolis: The Hird Horizon` combat rules, drawing inspiration from other Year Zero Engine RPGs (such as ALIEN and Coriolis: The Great Dark), as well as community house rules. It remains fully compatible with the Core Rulebook and existing Talents. It expands on the 3-action system with inspirations from Shadowrun and Pathfinder 2E, changes Darkness with random events, adjusts character advancement options, and expands the stress mechanic with panic and mental trauma.
+
+
+
+## Installation Instructions
+
+To install and use the Shadowrun 6E system for Foundry Virtual Tabletop, simply paste the following URL into the 
+**Install System** dialog on the Setup menu of the application.
+
+https://github.com/yjeroen/foundry-coriolis-modern-combat/releases/latest/download/system.json
+
+If you wish to manually install the system, you may do this by cloning the repository or downloading a zip archive from the [Releases Page](https://github.com/yjeroen/foundry-coriolis-modern-combat/releases). Then extract it into your Foundry's `Data/systems/coriolis-modern-combat` folder. 
+
+## Community Contribution
+
+For friendly discussion and questions, you can reach out on the original [Genesis Discord](https://discord.gg/USE9Gte), or on [FoundryVTT Discord](https://discord.gg/foundryvtt) [#other-game-systems](https://discord.com/channels/170995199584108546/701846414208008302). You can contribute simply by [reporting](https://github.com/yjeroen/foundry-coriolis-modern-combat/issues) bugs, vote on feature requests, or updating language translation files (new English keys haven't been translated yet).
+
+_Are you a dataslave or deckhead?_ If you have JavaScript, HTML and/or CSS skills, you can take ownership of one of the feature requests by replying on it (to let people know you work on this) and become a collaborator! See: [How to Contribute to an Open Source Project on GitHub](https://kcd.im/pull-request)
+
+## Module Features
+- Coriolis & Modern Combat Status Effects. If you have a Cover status effect, you see the Cover bonus options when rolling your armor gear. You automatically gain the Broken By Damage or Broken By Stress effects if your Health or Mind is at 0.
+- Critical Injuries and Mental Trauma often have a linked Condition Item in their description. Drag the Condition to your character sheet if/when you are affected by them. Conditions that affect attributes will do this automatically.
+- New equipment (E-dose, S-dose) and talents. These can be found in the Items Compendium.
+- Near range added for Weapons
+- Sheets and UI updated with the Modern Combat naming of things, like "Health" instead of "Health Points".
+- Updated Initiative Roll rules.
+- Included automated bonuses for your Weapon and if you're Surprise Attacking.
+- Updated prettified Initiative chat message
+- When Combat starts, a "Darkness" combatant is added to the Combat Tracker, with Initiative 0. When the turn of this combatant starts, an automatic event roll is made for the Darkness between the stars.
+- Handy macro's for both the GM and for the Players.
+- An Arabian style Google Font is added as Additional Fonts in FoundryVTT.
+- The FoundryVTT Pause logo is updated
+
+## Module Screenshots
+> Modern Combat Status Effects are available in the Token HUD, and the ones often used in combat have handy toggle macro's.
+
+![Status Effects](https://github.com/yjeroen/foundry-coriolis-modern-combat/blob/main/.github/images/status-effects.jpg?raw=true)
+
+> Initiative rolls are updated to the Modern Combat rules, with a pretty chat message for clarity.
+
+![Initiative](https://github.com/yjeroen/foundry-coriolis-modern-combat/blob/main/.github/images/initiative-chatmessage.jpg?raw=true)
+
+> When you have the In Cover effect (you can add it when you use the Take Cover action), you will get an option for the new cover bonuses in the Armor Defense roll.
+
+![Cover](https://github.com/yjeroen/foundry-coriolis-modern-combat/blob/main/.github/images/cover-bonuses.jpg?raw=true)
+
+> Darkness events can spontaneously appear at the end of a round in Modern Combat. This is completely automated within Foundry!
+
+![Darkness](https://github.com/yjeroen/foundry-coriolis-modern-combat/blob/main/.github/images/darkness-in-combat.jpg?raw=true)
+
+> Multiple handy macro's have been added for both players and GM, to speed up your game.
+
+![Macros](https://github.com/yjeroen/foundry-coriolis-modern-combat/blob/main/.github/images/handy-macros.jpg?raw=true)
+
+> One of your players got hit by a Critical Injury, Mental Trauma, or they need to roll for Panic? Use a macro to tell your players to roll with just a button press.
+
+![Macros](https://github.com/yjeroen/foundry-coriolis-modern-combat/blob/main/.github/images/macros-for-player-rolls.jpg?raw=true)
+
+## Patch Notes
+
+See [CHANGELOG](https://github.com/yjeroen/foundry-coriolis-modern-combat/blob/main/CHANGELOG.md)
+
+## Licenses
+
+**Project Licensing:**
+
+- All HTML, CSS and Javascript in this project is licensed under the GNU General Public License.
+
+**Content Usage and Licensing:**
+
+- The Shadowrun Sixth World RPG is made and by Catalyst Game Labs. Shadowrun and Matrix are registered trademarks and/or trademarks of The Topps Company, Inc. No actual content of the RPG is contained within this system. Community Fair Use policy is assumed to automate the ruleset in this FoundryVTT system implementation.
+- The Cover art is by `ptitvinc` from deviantart [Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License]
+
+**Virtual Table Top Platform Licenses:**
+
+- This Game System for Foundry Virtual Tabletop is licensed under the [Limited License Agreement for module development 09/02/2020](https://foundryvtt.com/article/license/).
+

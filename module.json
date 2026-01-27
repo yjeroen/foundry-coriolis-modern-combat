@@ -1,0 +1,81 @@
+{
+    "id": "coriolis-modern-combat",
+    "title": "Coriolis ✦ Modern Combat Rules",
+    "description": "Implements the Coriolis Modern Combat rules. Get the PDF on DriveThruRPG.",
+    "authors": [
+        {
+            "name": "Yeroon",
+            "discord": "yeroon.",
+            "url": "https://www.patreon.com/DeepResonanceWare"
+        }
+    ],
+    "version": "1.0.0",
+    "compatibility": {
+        "minimum": "13",
+        "verified": "13",
+        "maximum": "13"
+    },
+    "relationships": {
+        "systems": [
+            {
+                "id": "yzecoriolis",
+                "type": "system",
+                "compatibility": {
+                    "minimum": "4.2.0",
+                    "verified": "4.2.0"
+                }
+            }
+        ]
+    },
+    "esmodules": ["module/coriolis-modern-combat.mjs"],
+    "styles": ["styles/coriolis-modern-combat.css"],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json",
+            "flags": {}
+        }
+    ],
+    "packs":[
+        {
+            "label": "Modern Combat Rules",
+            "name": "modern_combat_rules",
+            "type": "JournalEntry",
+            "banner": "modules/coriolis-modern-combat/assets/images/compendium-banner.webp",
+            "system": "yzecoriolis"
+        },
+        {
+            "label": "Items",
+            "name": "items",
+            "type": "Item",
+            "banner": "modules/coriolis-modern-combat/assets/images/compendium-banner.webp",
+            "system": "yzecoriolis"
+        },
+        {
+            "label": "Tables",
+            "name": "tables",
+            "type": "RollTable",
+            "banner": "modules/coriolis-modern-combat/assets/images/compendium-banner.webp",
+            "system": "yzecoriolis"
+        },
+        {
+            "label": "Macros",
+            "name": "macros",
+            "type": "Macro",
+            "banner": "modules/coriolis-modern-combat/assets/images/compendium-banner.webp",
+            "system": "yzecoriolis"
+        }
+    ],
+    "packFolders": [
+        {
+            "name": "Coriolis • Modern Combat",
+            "color": "#8ab7c6",
+            "packs": ["modern_combat_rules", "items", "tables", "macros"]
+        }
+    ],
+    "url": "https://github.com/yjeroen/foundry-coriolis-modern-combat",
+    "bugs": "https://github.com/yjeroen/foundry-coriolis-modern-combat/issues",
+    "manifest": "https://github.com/yjeroen/foundry-coriolis-modern-combat/releases/latest/download/system.json",
+    "download": "https://github.com/yjeroen/foundry-coriolis-modern-combat/releases/download/release-1.0.0/coriolis-modern-combat-release-1.0.0.zip"
+}
