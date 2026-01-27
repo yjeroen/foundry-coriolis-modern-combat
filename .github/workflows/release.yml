@@ -96,12 +96,13 @@ jobs:
       run: npm ci
     - run: npm run pack
 
-    - name: Adjust manifest
-      uses: TomaszKandula/variable-substitution@v1.0.2
-      with:
-        files: "module.json"
-      env:
-        flags.hotReload: false
+    # Disabled, because nothing to adjust as we're not using hotReload in this module
+    # - name: Adjust manifest
+    #   uses: TomaszKandula/variable-substitution@v1.0.2
+    #   with:
+    #     files: "module.json"
+    #   env:
+    #     flags.hotReload: false
 
     - name: Determine archive contents
       id: archive
