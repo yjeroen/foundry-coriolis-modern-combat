@@ -25,18 +25,18 @@ This expansion modernizes the `Coriolis: The Hird Horizon` combat rules, drawing
 
 ## Installation Instructions
 
-To install and use the Shadowrun 6E system for Foundry Virtual Tabletop, simply paste the following URL into the 
-**Install System** dialog on the Setup menu of the application.
+To install and use the Coriolis Modern Combat module for Foundry Virtual Tabletop, simply paste the following URL into the 
+**Install Module** dialog on the Setup menu of the application.
 
-https://github.com/yjeroen/foundry-coriolis-modern-combat/releases/latest/download/system.json
+https://github.com/yjeroen/foundry-coriolis-modern-combat/releases/latest/download/module.json
 
-If you wish to manually install the system, you may do this by cloning the repository or downloading a zip archive from the [Releases Page](https://github.com/yjeroen/foundry-coriolis-modern-combat/releases). Then extract it into your Foundry's `Data/systems/coriolis-modern-combat` folder. 
+If you wish to manually install the module, you may do this by cloning the repository or downloading a zip archive from the [Releases Page](https://github.com/yjeroen/foundry-coriolis-modern-combat/releases). Then extract it into your Foundry's `Data/modules/coriolis-modern-combat` folder. 
 
 ## Community Contribution
 
-For friendly discussion and questions, you can reach out on the original [Genesis Discord](https://discord.gg/USE9Gte), or on [FoundryVTT Discord](https://discord.gg/foundryvtt) [#other-game-systems](https://discord.com/channels/170995199584108546/701846414208008302). You can contribute simply by [reporting](https://github.com/yjeroen/foundry-coriolis-modern-combat/issues) bugs, vote on feature requests, or updating language translation files (new English keys haven't been translated yet).
+For friendly discussion and questions, you can reach out on the [Year Zero Worlds Discord](https://discord.gg/year-zero-worlds-398697411981344769). You can contribute simply by [reporting](https://github.com/yjeroen/foundry-coriolis-modern-combat/issues) bugs, vote on feature requests, or updating language translation files.
 
-_Are you a dataslave or deckhead?_ If you have JavaScript, HTML and/or CSS skills, you can take ownership of one of the feature requests by replying on it (to let people know you work on this) and become a collaborator! See: [How to Contribute to an Open Source Project on GitHub](https://kcd.im/pull-request)
+_Are you a data spider or scientist?_ If you have JavaScript, HTML and/or CSS skills, you can take ownership of one of the feature requests by replying on it (to let people know you work on this) and become a collaborator! See: [How to Contribute to an Open Source Project on GitHub](https://kcd.im/pull-request)
 
 ## Module Features
 - Coriolis & Modern Combat Status Effects. If you have a Cover status effect, you see the Cover bonus options when rolling your armor gear. You automatically gain the Broken By Damage or Broken By Stress effects if your Health or Mind is at 0.
@@ -89,10 +89,10 @@ See [CHANGELOG](https://github.com/yjeroen/foundry-coriolis-modern-combat/blob/m
 
 **Content Usage and Licensing:**
 
-- The Shadowrun Sixth World RPG is made and by Catalyst Game Labs. Shadowrun and Matrix are registered trademarks and/or trademarks of The Topps Company, Inc. No actual content of the RPG is contained within this system. Community Fair Use policy is assumed to automate the ruleset in this FoundryVTT system implementation.
+- The Coriolis The Third Horizon RPG is made by Free League. This product was created under license of **Free League Workshop**. Coriolis and its logo, are trademarks of Fria Ligan AB. This work contains material that is copyright Fria Ligan AB and/or other authors. Such material is used with permission under the Community Content Agreement for Free League Workshop. All other original material in this work is copyright 2026 by yeroon and published under the Community Content Agreement for Free League Workshop.
 - The Cover art is by `ptitvinc` from deviantart [Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License]
 
 **Virtual Table Top Platform Licenses:**
 
-- This Game System for Foundry Virtual Tabletop is licensed under the [Limited License Agreement for module development 09/02/2020](https://foundryvtt.com/article/license/).
+- This Module for Foundry Virtual Tabletop is licensed under the [Limited License Agreement for module development 09/02/2020](https://foundryvtt.com/article/license/).
 
