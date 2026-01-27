@@ -1,0 +1,33 @@
+{
+  "folder": "gxNTFu95WZMCvzTk",
+  "name": "Calming Presence",
+  "type": "talent",
+  "_id": "NJDrJZ8mjdSdF8fo",
+  "img": "systems/yzecoriolis/css/icons/talent-icon.svg",
+  "system": {
+    "description": "<p>Your voice is a calming presence on your allies. You can perform the <strong>Rally Ally</strong> action on allies that aren't <em>broken by stress</em>.</p>\n<p>An ally can only recover stress in this way once per hour.</p>",
+    "itemModifiers": {},
+    "category": "general",
+    "cost": 0,
+    "groupConcept": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 2,
+    "brVCs1dH5H79Y7Lr": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "yzecoriolis",
+    "systemVersion": "4.2.0",
+    "createdTime": 1769460367823,
+    "modifiedTime": 1769460367823,
+    "lastModifiedBy": "brVCs1dH5H79Y7Lr"
+  },
+  "_key": "!items!NJDrJZ8mjdSdF8fo"
+}

@@ -1,0 +1,28 @@
+{
+  "folder": "oBYRcRPFVdm6V95H",
+  "name": "Errata: Update All Weapons",
+  "type": "script",
+  "_id": "K1dHuTLM1FkcNEp6",
+  "author": "brVCs1dH5H79Y7Lr",
+  "img": "icons/svg/dice-target.svg",
+  "scope": "global",
+  "command": "ui.notifications.info(\"Starting to update all weapons to Modern Combat Rules.\");\n\nasync function updateItems(items) {\n  for (const item of items) {\n    if (item.type === 'weapon') {\n      if (item.system.special.modernCombat !== undefined) continue;\n      console.log(\"Updating:\", item.uuid);\n      \n      if (item.system.techTier === 'O' || item.system.techTier === 'A') {\n        let damage = item.system.damage + (item.system.explosive ? 2 : 1);\n        let blastRadius = item.system.blastRadius === \"close\" ? \"near\" : item.system.blastRadius;\n        const specialFeatures = item.system.special;\n        specialFeatures.modernCombat = \"Modern Combat\";\n        if (item.name === \"Concussion grenade\") {\n          damage = 4;\n        } else if (item.name === \"Frag grenade\") {\n          damage = 3;\n        }\n        await item.update({\n          'system.blastRadius': blastRadius,\n          'system.damage': damage,\n          'system.special': specialFeatures\n        });\n      }\n    }\n  }\n}\n\nawait updateItems(game.items);\nfor (const actor of game.actors) {\n  await updateItems(actor.items);\n}\nfor (const scene of game.scenes) {\n  for (const token of scene.tokens) {\n    if (!token.actorLink && token.actor) {\n      await updateItems(token.actor.items);\n    }\n  }\n}\n\nui.notifications.info(\"Finished updating all weapons to Modern Combat Rules.\");",
+  "sort": 900000,
+  "ownership": {
+    "default": 0,
+    "brVCs1dH5H79Y7Lr": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "yzecoriolis",
+    "systemVersion": "4.2.0",
+    "createdTime": 1769461155368,
+    "modifiedTime": 1769511242266,
+    "lastModifiedBy": "brVCs1dH5H79Y7Lr"
+  },
+  "_key": "!macros!K1dHuTLM1FkcNEp6"
+}

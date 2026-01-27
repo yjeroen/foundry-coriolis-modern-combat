@@ -1,0 +1,33 @@
+{
+  "name": "Combat Medic",
+  "type": "talent",
+  "system": {
+    "description": "<p>You have been trained to heal during the heat of battle, even while your patient is moving around in combat. You may perform the <strong>Administer First Aid</strong> action even when they aren't <em>broken by damage</em>.</p>\n<p>An ally can only be healed in this way once per hour.</p>",
+    "itemModifiers": {},
+    "category": "general",
+    "cost": 0,
+    "groupConcept": ""
+  },
+  "_id": "FTouWauRHGxPsa43",
+  "img": "systems/yzecoriolis/css/icons/talent-icon.svg",
+  "effects": [],
+  "folder": "gxNTFu95WZMCvzTk",
+  "sort": 100000,
+  "ownership": {
+    "default": 2,
+    "brVCs1dH5H79Y7Lr": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Actor.QZB0ZHViukxDYY25.Item.HbMzvdODxvc8AmS6",
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "yzecoriolis",
+    "systemVersion": "4.2.0",
+    "createdTime": 1769460367823,
+    "modifiedTime": 1769460367823,
+    "lastModifiedBy": "brVCs1dH5H79Y7Lr"
+  },
+  "_key": "!items!FTouWauRHGxPsa43"
+}

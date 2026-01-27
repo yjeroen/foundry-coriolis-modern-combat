@@ -1,0 +1,28 @@
+{
+  "name": "Mental Trauma Roll",
+  "type": "script",
+  "command": "// Replace the UUID with the one of your RollTable\nconst table = await fromUuid(\"Compendium.coriolis-modern-combat.tables.RollTable.UK1NjqMLeTDJsyuw\");\nawait table.sheet.render(true);\n\nconst tableRoll = await table.roll();\nconst draws = table.getResultsForRoll(tableRoll.roll.total);\nif ( draws.length > 0 ) {\n  if ( game.settings.get(\"core\", \"animateRollTable\") ) {\n    await table.sheet._animateRoll(draws);\n  }\n  await table.draw(tableRoll);\n}\nsetTimeout(async function() {\n    await table.sheet.close();\n}, 500);",
+  "img": "modules/coriolis-modern-combat/assets/images/trauma-square.webp",
+  "author": "brVCs1dH5H79Y7Lr",
+  "scope": "global",
+  "folder": "oBYRcRPFVdm6V95H",
+  "sort": 1400000,
+  "ownership": {
+    "default": 2,
+    "brVCs1dH5H79Y7Lr": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": "Macro.DzKlXVxwean5jGLi",
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "yzecoriolis",
+    "systemVersion": "4.2.0",
+    "createdTime": 1769461155368,
+    "modifiedTime": 1769511242266,
+    "lastModifiedBy": "brVCs1dH5H79Y7Lr"
+  },
+  "_id": "4rdDPxcAj8Pe0Va8",
+  "_key": "!macros!4rdDPxcAj8Pe0Va8"
+}

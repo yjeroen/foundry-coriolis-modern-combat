@@ -1,0 +1,28 @@
+{
+  "name": "Coriolis Dice Roll",
+  "type": "script",
+  "_id": "EE001SKlX47UUvb2",
+  "author": "brVCs1dH5H79Y7Lr",
+  "img": "modules/coriolis-modern-combat/assets/images/coriolis-dice.webp",
+  "scope": "global",
+  "command": "let d = new Dialog({\n  title: game.i18n.localize(\"CORIOLISMODERNCOMBAT.CoriolisDiceRoll\"),\n  content: `\n  <form>\n    <div class=\"form-group\">\n      <label>${game.i18n.localize(\"CORIOLISMODERNCOMBAT.Header\")}:</label>\n      <input type=\"text\" id=\"headline\" name=\"headline\"/>\n    </div>\n    <div class=\"form-group\">\n      <label>${game.i18n.localize(\"CORIOLISMODERNCOMBAT.NumberDice\")}:</label>\n      <input type=\"number\" id=\"diceCount\" name=\"diceCount\" min=\"1\" autofocus/>\n    </div>\n  </form>`,\n  buttons: {\n    roll: {\n      icon: '<i class=\"fas fa-dice\"></i>',\n      label: game.i18n.localize(\"CORIOLISMODERNCOMBAT.Roll\"),\n      callback: async (html) => {\n        const headline = html.find('#headline').val() || game.i18n.localize(\"CORIOLISMODERNCOMBAT.ManualRoll\");\n        let diceCount = parseInt(html.find('#diceCount').val());\n        if (isNaN(diceCount) || diceCount < 1) diceCount = 1;\n\n        // Roll (Foundry V12)\n        let roll = await (new Roll(`${diceCount}d6`)).evaluate();\n        const values = roll.dice[0].results.map(r => r.result);\n        const successes = values.filter(r => r === 6).length;\n\n        // Outcome flags\n        let limitedSuccess = successes > 0 && successes < 3;\n        let criticalSuccess = successes >= 3;\n        let failure = successes === 0;\n\n        // Build results object\n        const results = {\n          successes: successes,\n          limitedSuccess: limitedSuccess,\n          criticalSuccess: criticalSuccess,\n          failure: failure,\n          rollData: {}\n        };\n\n        // Build tooltip with system-style dice HTML\n        const diceLis = values.map(v => {\n          return `<li class=\"roll die d6 dice-${v} dice-face\">&nbsp;</li>`;\n        }).join(\"\");\n\n        const tooltip = `\n          <div class=\"coriolis-results\">\n            <section class=\"tooltip-part\">\n              <ol class=\"dice-rolls\">\n                ${diceLis}\n              </ol>\n            </section>\n          </div>`;\n\n        // Data shaped like a normal attribute roll\n        const data = {\n          title: headline,\n          rollType: \"attribute\",\n          actorType: \"character\",\n          attributeName: game.i18n.localize(\"CORIOLISMODERNCOMBAT.Dicepool\"),\n          attribute: diceCount,\n          modifier: null,\n          bonus: 0,\n          skillName: null,\n          skill: null,\n          totalDice: diceCount,\n          results: results,\n          canPush: false,\n          tooltip: tooltip\n        };\n\n        const templatePath = \"systems/yzecoriolis/templates/sidebar/roll.html\";\n        const content = await foundry.applications.handlebars.renderTemplate(templatePath, data);\n\n        // Prepare chat message data\n        let msgData = {\n          user: game.user.id,\n          speaker: ChatMessage.getSpeaker(),\n          content: content,\n          type: CONST.CHAT_MESSAGE_STYLES.ROLL,\n          sound: CONFIG.sounds.dice\n        };\n\n        // If Dice So Nice is active, add the roll for 3D dice\n        if (game.modules.get(\"dice-so-nice\")?.active) {\n          msgData.rolls = [roll];\n          msgData.flags = { \"dice-so-nice\": { showRoll: true } };\n        }\n\n        await ChatMessage.create(msgData);\n      }\n    },\n    cancel: { label: game.i18n.localize(\"Cancel\") }\n  },\n  default: \"roll\"\n});\nd.render(true);",
+  "folder": "oBYRcRPFVdm6V95H",
+  "sort": 1600000,
+  "ownership": {
+    "default": 2,
+    "brVCs1dH5H79Y7Lr": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Compendium.coriolis-modern-combat.macros.Macro.3F01QsSsU8kxVzEi",
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "yzecoriolis",
+    "systemVersion": "4.2.0",
+    "createdTime": 1769461155368,
+    "modifiedTime": 1769511242266,
+    "lastModifiedBy": "brVCs1dH5H79Y7Lr"
+  },
+  "_key": "!macros!EE001SKlX47UUvb2"
+}

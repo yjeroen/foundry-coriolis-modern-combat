@@ -1,0 +1,33 @@
+{
+  "folder": "gxNTFu95WZMCvzTk",
+  "name": "Inspiring Aura",
+  "type": "talent",
+  "_id": "OuRrshgdBwPw6TQg",
+  "img": "systems/yzecoriolis/css/icons/talent-icon.svg",
+  "system": {
+    "description": "<p>You must be holding a talisman or other inspiring item in one hand. When you perform the <strong>Give Order</strong> action with those conditions, you can alternatively select the following stunts:</p>\n<ul>\n<li><strong>Inspiring Aura:</strong> All allies within Near range who can see you, gain a +1 modifier on one simple skill of your choosing until the start of your next turn. An ally can only use this bonus on one roll.</li>\n<li><strong>Empowering Presence:</strong> You increase the range of your Inspiring Aura stunt to Short range until the start of your next turn.</li>\n</ul>",
+    "itemModifiers": {},
+    "category": "general",
+    "cost": 0,
+    "groupConcept": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 2,
+    "brVCs1dH5H79Y7Lr": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "yzecoriolis",
+    "systemVersion": "4.2.0",
+    "createdTime": 1769460367823,
+    "modifiedTime": 1769460367823,
+    "lastModifiedBy": "brVCs1dH5H79Y7Lr"
+  },
+  "_key": "!items!OuRrshgdBwPw6TQg"
+}

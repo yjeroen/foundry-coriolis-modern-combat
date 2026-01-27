@@ -1,0 +1,51 @@
+{
+  "folder": "9XCZmXitk6D02Iah",
+  "name": "Gouged eye",
+  "type": "injury",
+  "img": "systems/yzecoriolis/css/icons/injury-icon.svg",
+  "system": {
+    "description": "<p>You become @UUID[Compendium.coriolis-modern-combat.items.Item.oj8DBDbF82W0095D]{Distracted} and @UUID[Compendium.coriolis-modern-combat.items.Item.W9teLL5AGPI2Byg2]{Shaken}.</p>",
+    "itemModifiers": {
+      "si_i3t4moo3z": {
+        "mod": "itemModifierAttrAgility",
+        "value": -1
+      },
+      "si_18azi6w8o": {
+        "mod": "itemModifierAttrWits",
+        "value": -1
+      },
+      "si_xxarfi35v": {
+        "mod": "itemModifierAttrStrength",
+        "value": -1
+      },
+      "si_27qmc43j6": {
+        "mod": "itemModifierAttrEmpathy",
+        "value": -1
+      }
+    },
+    "fatal": false,
+    "timeLimit": "",
+    "healTime": "2D6 days",
+    "bonus": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 2,
+    "brVCs1dH5H79Y7Lr": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": "Item.0D4TNJ87DiRyE0F1",
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "yzecoriolis",
+    "systemVersion": "4.2.0",
+    "createdTime": 1769460367823,
+    "modifiedTime": 1769461534569,
+    "lastModifiedBy": "brVCs1dH5H79Y7Lr"
+  },
+  "_id": "pDhbVX8pJZeTMfYE",
+  "_key": "!items!pDhbVX8pJZeTMfYE"
+}

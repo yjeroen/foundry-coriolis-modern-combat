@@ -1,0 +1,28 @@
+{
+  "name": "Panic Roll",
+  "type": "script",
+  "command": "const actor = _token?.actor || game.user.character;\nif (!actor) {\n  ui.notifications.warn(game.i18n.localize(\"CORIOLISMODERNCOMBAT.SelectToken\"));\n  return;\n}\nconst textEditor = foundry.applications.ux.TextEditor.implementation;\nconst mind = actor.system.mindPoints.value;\nconst shellShocked = await textEditor.enrichHTML((await fromUuid('Compendium.coriolis-modern-combat.items.Item.g138uXc38FEPQCmM')).link);\nconst distracted = await textEditor.enrichHTML((await fromUuid('Compendium.coriolis-modern-combat.items.Item.oj8DBDbF82W0095D')).link);\n\nconst PanicTable = new Map();\nPanicTable.set(1, `<strong>Flee.</strong> <em>You just can’t take it anymore. You must flee to a safe place and refuse to leave it. You won’t attack anyone and won’t attempt anything dangerous. You can NOT use the Retreat action. You recover 1 stress. All allies who see you flee, must make an immediate Panic Roll.</em>`);\nPanicTable.set(2, `<strong>Scream.</strong> <em>You scream your lungs out. You become ${shellShocked}. All allies who hear you scream, must make an immediate Panic Roll.</em>`);\nPanicTable.set(3, `<strong>Seek Cover.</strong> <em>You must use your next actions to move away from danger and find a safe spot if possible. You are allowed to make a Retreat action. You can act normally once you’ve taken the Take Cover action.</em>`);\nPanicTable.set(4, `<strong>Freeze.</strong> <em>You’re frozen by fear or stress. You become ${shellShocked}.</em>`);\nPanicTable.set(5, `<strong>Drop Item.</strong> <em>Whether by stress, confusion, or the realization that you’re all going to die anyway, you drop a weapon or other important item–the GM decides which one.</em>`);\nPanicTable.set(6, `<strong>Tremble.</strong> <em>You start to tremble uncontrollably. You become ${distracted} until the end of your next turn.</em>`);\nPanicTable.set(7, `<strong>Keeping it together.</strong> <em>You manage to keep your nerves in check – this time.</em>`);\n\nconst roll = await Roll.create(`1d10 + ${mind}[mind]`).evaluate();\nconst result = Math.min(7, roll.total);\nconst panicResult = PanicTable.get(result);\n\nconst flavor = `\n<strong style=\"font-size:20px\">${actor.name} ✦ ${game.i18n.localize(\"CORIOLISMODERNCOMBAT.PanicRoll\")}</strong>\n<div><img src=\"/modules/coriolis-modern-combat/assets/images/stress-bar.webp\"></div>\n<p>${panicResult}</p><hr>\n`;\n\nawait roll.toMessage({\n  speaker: ChatMessage.getSpeaker({ token }),\n  rollMode: \"roll\",\n  title: game.i18n.localize(\"CORIOLISMODERNCOMBAT.PanicRoll\"),\n  flavor: flavor\n});",
+  "img": "modules/coriolis-modern-combat/assets/images/stress-square.webp",
+  "_id": "v39tY5UnzDqaTtp8",
+  "author": "brVCs1dH5H79Y7Lr",
+  "scope": "global",
+  "folder": "oBYRcRPFVdm6V95H",
+  "sort": 1100000,
+  "ownership": {
+    "default": 2,
+    "brVCs1dH5H79Y7Lr": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "yzecoriolis",
+    "systemVersion": "4.2.0",
+    "createdTime": 1769461155368,
+    "modifiedTime": 1769511242266,
+    "lastModifiedBy": "brVCs1dH5H79Y7Lr"
+  },
+  "_key": "!macros!v39tY5UnzDqaTtp8"
+}

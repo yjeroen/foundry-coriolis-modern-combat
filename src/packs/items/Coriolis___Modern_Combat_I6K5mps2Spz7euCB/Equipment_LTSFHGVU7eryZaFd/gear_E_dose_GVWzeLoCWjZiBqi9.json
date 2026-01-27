@@ -1,0 +1,44 @@
+{
+  "effects": [],
+  "flags": {
+    "coriolis-corerules": {
+      "importPath": "Item/Gear/Medicurgical Technology"
+    },
+    "yzecoriolis": {
+      "customJournal": true
+    }
+  },
+  "folder": "LTSFHGVU7eryZaFd",
+  "img": "modules/coriolis-corerules/images/icons/gear-icon.svg",
+  "name": "E-dose",
+  "system": {
+    "description": "<p>A one-use injector with powerful stimulants and analgesics designed to restore combat function in an emergency situation. It heals <strong>2 damage to your Health</strong>.</p>\n<p>Retrieving and administrating takes a single Action. An E-dose may be used on yourself or on others.</p>",
+    "weight": "L",
+    "techTier": "O",
+    "cost": 200,
+    "quantity": 1,
+    "restricted": false,
+    "equipped": false,
+    "itemModifiers": {},
+    "bonus": 1
+  },
+  "type": "gear",
+  "_stats": {
+    "compendiumSource": "Compendium.coriolis-corerules.item.Item.18f159bbff93af48",
+    "duplicateSource": "Item.eINEmJn2DF2la7Is",
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "yzecoriolis",
+    "systemVersion": "4.2.0",
+    "createdTime": 1769460367823,
+    "modifiedTime": 1769460367823,
+    "lastModifiedBy": "brVCs1dH5H79Y7Lr"
+  },
+  "ownership": {
+    "default": 2,
+    "brVCs1dH5H79Y7Lr": 3
+  },
+  "sort": 100000,
+  "_id": "GVWzeLoCWjZiBqi9",
+  "_key": "!items!GVWzeLoCWjZiBqi9"
+}

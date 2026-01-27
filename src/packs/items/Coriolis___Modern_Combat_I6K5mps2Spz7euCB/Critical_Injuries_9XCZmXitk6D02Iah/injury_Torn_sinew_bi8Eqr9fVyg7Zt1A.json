@@ -1,0 +1,39 @@
+{
+  "folder": "9XCZmXitk6D02Iah",
+  "name": "Torn sinew",
+  "type": "injury",
+  "img": "systems/yzecoriolis/css/icons/injury-icon.svg",
+  "system": {
+    "description": "<p>You become @UUID[Compendium.coriolis-modern-combat.items.Item.rLX6KEWqTQIXQyrD]{Hampered}.</p>",
+    "itemModifiers": {
+      "si_i3t4moo3z": {
+        "mod": "itemModifierMR",
+        "value": -5
+      }
+    },
+    "fatal": false,
+    "timeLimit": "",
+    "healTime": "D6 days",
+    "bonus": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 2,
+    "brVCs1dH5H79Y7Lr": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": "Item.W4JyOQyw4T6H6Ngb",
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "yzecoriolis",
+    "systemVersion": "4.2.0",
+    "createdTime": 1769460367823,
+    "modifiedTime": 1769461753592,
+    "lastModifiedBy": "brVCs1dH5H79Y7Lr"
+  },
+  "_id": "bi8Eqr9fVyg7Zt1A",
+  "_key": "!items!bi8Eqr9fVyg7Zt1A"
+}

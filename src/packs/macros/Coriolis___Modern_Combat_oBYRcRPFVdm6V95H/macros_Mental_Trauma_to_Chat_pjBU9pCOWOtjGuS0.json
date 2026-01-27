@@ -1,0 +1,28 @@
+{
+  "name": "Mental Trauma to Chat",
+  "type": "chat",
+  "author": "brVCs1dH5H79Y7Lr",
+  "img": "modules/coriolis-modern-combat/assets/images/trauma-square.webp",
+  "scope": "global",
+  "command": "<strong style=\"font-size:20px\">Mental Trauma!</strong>\n<div><img src=\"/modules/coriolis-modern-combat/assets/images/trauma-bar.webp\"></div>\nRoll for a mental trauma:\n\n<div style=\"text-align:center\">@UUID[Compendium.coriolis-modern-combat.macros.Macro.4rdDPxcAj8Pe0Va8]{Mental Trauma Roll}</div><hr>",
+  "folder": "oBYRcRPFVdm6V95H",
+  "sort": 1300000,
+  "ownership": {
+    "default": 0,
+    "brVCs1dH5H79Y7Lr": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": "Macro.BovZCFLNzpIES5Rt",
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "yzecoriolis",
+    "systemVersion": "4.2.0",
+    "createdTime": 1769461155368,
+    "modifiedTime": 1769511242266,
+    "lastModifiedBy": "brVCs1dH5H79Y7Lr"
+  },
+  "_id": "pjBU9pCOWOtjGuS0",
+  "_key": "!macros!pjBU9pCOWOtjGuS0"
+}

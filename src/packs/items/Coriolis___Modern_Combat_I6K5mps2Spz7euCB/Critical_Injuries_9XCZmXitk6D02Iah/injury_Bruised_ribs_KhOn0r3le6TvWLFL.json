@@ -1,0 +1,39 @@
+{
+  "folder": "9XCZmXitk6D02Iah",
+  "name": "Bruised ribs",
+  "type": "injury",
+  "_id": "KhOn0r3le6TvWLFL",
+  "img": "systems/yzecoriolis/css/icons/injury-icon.svg",
+  "system": {
+    "description": "<p>You become @UUID[Item.ddHjLRJYJjG2tMf4]{Exhausted}.</p>",
+    "itemModifiers": {
+      "si_4g0k3v6rl": {
+        "mod": "itemModifierAttrStrength",
+        "value": -2
+      }
+    },
+    "fatal": false,
+    "timeLimit": "",
+    "healTime": "D6 days",
+    "bonus": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 2,
+    "brVCs1dH5H79Y7Lr": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "yzecoriolis",
+    "systemVersion": "4.2.0",
+    "createdTime": 1769460367823,
+    "modifiedTime": 1769460367823,
+    "lastModifiedBy": "brVCs1dH5H79Y7Lr"
+  },
+  "_key": "!items!KhOn0r3le6TvWLFL"
+}

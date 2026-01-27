@@ -1,0 +1,43 @@
+{
+  "folder": "9XCZmXitk6D02Iah",
+  "name": "Punctured lung",
+  "type": "injury",
+  "img": "systems/yzecoriolis/css/icons/injury-icon.svg",
+  "system": {
+    "description": "<p>You become @UUID[Compendium.coriolis-modern-combat.items.Item.ddHjLRJYJjG2tMf4]{Exhausted} and @UUID[Compendium.coriolis-modern-combat.items.Item.iR0XsAz6ptPvbGNU]{Dazed}.</p>",
+    "itemModifiers": {
+      "si_i3t4moo3z": {
+        "mod": "itemModifierAttrStrength",
+        "value": -2
+      },
+      "si_3257e073f": {
+        "mod": "itemModifierAttrAgility",
+        "value": -2
+      }
+    },
+    "fatal": true,
+    "timeLimit": "One day",
+    "healTime": "2D6 days",
+    "bonus": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 2,
+    "brVCs1dH5H79Y7Lr": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": "Item.9MKtOhluFVzb1XjR",
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "yzecoriolis",
+    "systemVersion": "4.2.0",
+    "createdTime": 1769460367823,
+    "modifiedTime": 1769461663812,
+    "lastModifiedBy": "brVCs1dH5H79Y7Lr"
+  },
+  "_id": "I8LC7dZGWDsNVBjC",
+  "_key": "!items!I8LC7dZGWDsNVBjC"
+}

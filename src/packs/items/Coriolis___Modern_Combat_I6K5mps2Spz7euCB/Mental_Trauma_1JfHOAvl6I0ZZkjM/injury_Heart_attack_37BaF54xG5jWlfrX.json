@@ -1,0 +1,34 @@
+{
+  "folder": "1JfHOAvl6I0ZZkjM",
+  "name": "Heart attack",
+  "type": "injury",
+  "img": "modules/coriolis-modern-combat/assets/images/coriolis-skull.webp",
+  "system": {
+    "description": "<p style=\"text-align: center;\" data-pm-slice=\"1 1 [&quot;blockquote&quot;,{&quot;_preserve&quot;:{}}]\"><em><strong>Your heart stops, and you die of pure fright.</strong></em></p>",
+    "itemModifiers": {},
+    "fatal": false,
+    "timeLimit": "",
+    "healTime": "-",
+    "bonus": 0
+  },
+  "effects": [],
+  "sort": 1800000,
+  "ownership": {
+    "default": 2,
+    "brVCs1dH5H79Y7Lr": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": "Item.CBpU58uBneOgx0L3",
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "yzecoriolis",
+    "systemVersion": "4.2.0",
+    "createdTime": 1769460367823,
+    "modifiedTime": 1769460367823,
+    "lastModifiedBy": "brVCs1dH5H79Y7Lr"
+  },
+  "_id": "37BaF54xG5jWlfrX",
+  "_key": "!items!37BaF54xG5jWlfrX"
+}

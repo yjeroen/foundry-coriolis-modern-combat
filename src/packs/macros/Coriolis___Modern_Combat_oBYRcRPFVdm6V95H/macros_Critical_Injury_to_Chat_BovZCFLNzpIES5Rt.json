@@ -1,0 +1,28 @@
+{
+  "name": "Critical Injury to Chat",
+  "type": "chat",
+  "_id": "BovZCFLNzpIES5Rt",
+  "author": "brVCs1dH5H79Y7Lr",
+  "img": "modules/coriolis-modern-combat/assets/images/critical-square.webp",
+  "scope": "global",
+  "command": "<strong style=\"font-size:20px\">Critical Injury!</strong>\n<div><img src=\"/modules/coriolis-modern-combat/assets/images/critical-bar.webp\"></div>\nRoll for a critical injury:\n\n<div style=\"text-align:center\">@UUID[Compendium.coriolis-modern-combat.macros.Macro.DzKlXVxwean5jGLi]{Critical Hit Roll}</div><hr>",
+  "folder": "oBYRcRPFVdm6V95H",
+  "sort": 1000000,
+  "ownership": {
+    "default": 0,
+    "brVCs1dH5H79Y7Lr": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "yzecoriolis",
+    "systemVersion": "4.2.0",
+    "createdTime": 1769461155368,
+    "modifiedTime": 1769511242266,
+    "lastModifiedBy": "brVCs1dH5H79Y7Lr"
+  },
+  "_key": "!macros!BovZCFLNzpIES5Rt"
+}

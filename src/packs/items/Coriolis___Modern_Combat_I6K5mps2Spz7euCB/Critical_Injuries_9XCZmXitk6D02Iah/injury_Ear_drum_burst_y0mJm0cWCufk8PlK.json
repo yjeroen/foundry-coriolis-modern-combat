@@ -1,0 +1,39 @@
+{
+  "folder": "9XCZmXitk6D02Iah",
+  "name": "Ear drum burst",
+  "type": "injury",
+  "img": "systems/yzecoriolis/css/icons/injury-icon.svg",
+  "system": {
+    "description": "<p>You become @UUID[Compendium.coriolis-modern-combat.items.Item.IiJp0aqnZZ3ezeq6]{Confused}.</p>",
+    "itemModifiers": {
+      "si_i3t4moo3z": {
+        "mod": "itemModifierAttrWits",
+        "value": -2
+      }
+    },
+    "fatal": false,
+    "timeLimit": "",
+    "healTime": "D6 days",
+    "bonus": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 2,
+    "brVCs1dH5H79Y7Lr": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": "Item.XZG6dNdz7XvB5xyT",
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "yzecoriolis",
+    "systemVersion": "4.2.0",
+    "createdTime": 1769460367823,
+    "modifiedTime": 1769461501136,
+    "lastModifiedBy": "brVCs1dH5H79Y7Lr"
+  },
+  "_id": "y0mJm0cWCufk8PlK",
+  "_key": "!items!y0mJm0cWCufk8PlK"
+}

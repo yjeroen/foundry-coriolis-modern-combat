@@ -1,0 +1,23 @@
+{
+  "type": "RollTable",
+  "folder": null,
+  "name": "Coriolis ✦ Modern Combat",
+  "color": "#8ab7c6",
+  "sorting": "a",
+  "_id": "jQhZ8vvKzRAF6XJc",
+  "description": "",
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "yzecoriolis",
+    "systemVersion": "4.2.0",
+    "createdTime": 1769504116895,
+    "modifiedTime": 1769504116961,
+    "lastModifiedBy": "brVCs1dH5H79Y7Lr"
+  },
+  "_key": "!folders!jQhZ8vvKzRAF6XJc"
+}

@@ -1,0 +1,33 @@
+{
+  "folder": "gxNTFu95WZMCvzTk",
+  "name": "Wired Reflexes",
+  "type": "talent",
+  "_id": "5C7ZEVDJGoVFuZpN",
+  "img": "systems/yzecoriolis/css/icons/talent-icon.svg",
+  "system": {
+    "description": "<pre><strong>CYBERWARE | Cost: 10,000 birr, 10 XP</strong></pre>\n<hr>\n<p>Painful neural implants sharpen your reflexes, letting you dodge bullets. By taking 1 stress (no Panic roll), you can perform the&nbsp;<strong>Full Dodge</strong> action without spending Action Points.</p>",
+    "itemModifiers": {},
+    "category": "general",
+    "cost": 0,
+    "groupConcept": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 2,
+    "brVCs1dH5H79Y7Lr": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "yzecoriolis",
+    "systemVersion": "4.2.0",
+    "createdTime": 1769460367823,
+    "modifiedTime": 1769460367823,
+    "lastModifiedBy": "brVCs1dH5H79Y7Lr"
+  },
+  "_key": "!items!5C7ZEVDJGoVFuZpN"
+}

@@ -1,0 +1,28 @@
+{
+  "folder": "oBYRcRPFVdm6V95H",
+  "name": "Toggle Surprise Attacking",
+  "type": "script",
+  "author": "brVCs1dH5H79Y7Lr",
+  "img": "icons/svg/cowled.svg",
+  "scope": "global",
+  "command": "if (!_token) {\n  ui.notifications.warn(game.i18n.localize(\"CORIOLISMODERNCOMBAT.SelectToken\"));\n  return;\n}\n\nconst effect = await _token.actor.toggleStatusEffect('surprise');\nif (effect) {\n  ui.notifications.info(game.i18n.localize(\"CORIOLISMODERNCOMBAT.ToggleSurprise\"));\n}",
+  "ownership": {
+    "default": 2,
+    "brVCs1dH5H79Y7Lr": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "yzecoriolis",
+    "systemVersion": "4.2.0",
+    "createdTime": 1769511221276,
+    "modifiedTime": 1769511242266,
+    "lastModifiedBy": "brVCs1dH5H79Y7Lr"
+  },
+  "_id": "Y4UIQZyXumGAeoIV",
+  "sort": 700000,
+  "_key": "!macros!Y4UIQZyXumGAeoIV"
+}

@@ -1,0 +1,43 @@
+{
+  "folder": "9XCZmXitk6D02Iah",
+  "name": "Cracked head",
+  "type": "injury",
+  "img": "systems/yzecoriolis/css/icons/injury-icon.svg",
+  "system": {
+    "description": "<p>You become @UUID[Compendium.coriolis-modern-combat.items.Item.IiJp0aqnZZ3ezeq6]{Confused} and @UUID[Compendium.coriolis-modern-combat.items.Item.iR0XsAz6ptPvbGNU]{Dazed}.</p>",
+    "itemModifiers": {
+      "si_i3t4moo3z": {
+        "mod": "itemModifierAttrAgility",
+        "value": -2
+      },
+      "si_18azi6w8o": {
+        "mod": "itemModifierAttrWits",
+        "value": -2
+      }
+    },
+    "fatal": true,
+    "timeLimit": "D6 rounds",
+    "healTime": "3D6 days",
+    "bonus": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 2,
+    "brVCs1dH5H79Y7Lr": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.y6W5Einf28JHU9Lz",
+    "duplicateSource": "Item.y6W5Einf28JHU9Lz",
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "yzecoriolis",
+    "systemVersion": "4.2.0",
+    "createdTime": 1769460367823,
+    "modifiedTime": 1769461408642,
+    "lastModifiedBy": "brVCs1dH5H79Y7Lr"
+  },
+  "_id": "f3vmKPYR86EM7pJT",
+  "_key": "!items!f3vmKPYR86EM7pJT"
+}

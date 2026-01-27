@@ -1,0 +1,33 @@
+{
+  "folder": "gxNTFu95WZMCvzTk",
+  "name": "Rioting Djinn",
+  "type": "talent",
+  "_id": "rf0chhpY6aLgY354",
+  "img": "systems/yzecoriolis/css/icons/talent-icon.svg",
+  "system": {
+    "description": "<p>You slice into a target&rsquo;s communicator (I-II), holograph (I-II), or primitive computer, creating a disadvantage by interfering with a critical system&mdash;such as distorting their vision feed, disrupting their armor controls, or triggering a distracting alert. This requires you to use an ordinary or advanced computer.</p>\n<p>When you perform the <strong>Interact with Technology</strong> action with those conditions, you can alternatively select the following stunts:</p>\n<ul>\n<li><strong>Incoming Call:</strong> Your target becomes @UUID[Compendium.coriolis-modern-combat.items.Item.oj8DBDbF82W0095D]{Distracted} until the end of their next turn.</li>\n<li><strong>Popups:</strong> Your target becomes @UUID[Compendium.coriolis-modern-combat.items.Item.IiJp0aqnZZ3ezeq6]{Confused} until the end of their next turn.</li>\n<li><strong>Riot:</strong> Your target becomes @UUID[Compendium.coriolis-modern-combat.items.Item.iR0XsAz6ptPvbGNU]{Dazed} until the end of their next turn.</li>\n</ul>",
+    "itemModifiers": {},
+    "category": "general",
+    "cost": 0,
+    "groupConcept": "agents"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 2,
+    "brVCs1dH5H79Y7Lr": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "yzecoriolis",
+    "systemVersion": "4.2.0",
+    "createdTime": 1769460367823,
+    "modifiedTime": 1769462166990,
+    "lastModifiedBy": "brVCs1dH5H79Y7Lr"
+  },
+  "_key": "!items!rf0chhpY6aLgY354"
+}

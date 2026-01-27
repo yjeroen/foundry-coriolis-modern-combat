@@ -1,0 +1,39 @@
+{
+  "folder": "1JfHOAvl6I0ZZkjM",
+  "name": "Trembling",
+  "type": "injury",
+  "_id": "fZy5i1x8mbbXVmJN",
+  "img": "modules/coriolis-modern-combat/assets/images/trauma-square.webp",
+  "system": {
+    "description": "<p data-pm-slice=\"1 1 [&quot;blockquote&quot;,{&quot;_preserve&quot;:{}}]\">You become @UUID[Compendium.coriolis-modern-combat.items.Item.iR0XsAz6ptPvbGNU]{Dazed} as long as you suffer from this mental trauma.</p>",
+    "itemModifiers": {
+      "si_7oe8h32v0": {
+        "mod": "itemModifierAttrAgility",
+        "value": -2
+      }
+    },
+    "fatal": false,
+    "timeLimit": "",
+    "healTime": "-",
+    "bonus": 0
+  },
+  "effects": [],
+  "sort": 100000,
+  "ownership": {
+    "default": 2,
+    "brVCs1dH5H79Y7Lr": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "yzecoriolis",
+    "systemVersion": "4.2.0",
+    "createdTime": 1769460367823,
+    "modifiedTime": 1769462053707,
+    "lastModifiedBy": "brVCs1dH5H79Y7Lr"
+  },
+  "_key": "!items!fZy5i1x8mbbXVmJN"
+}

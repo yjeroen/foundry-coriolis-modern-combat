@@ -1,0 +1,39 @@
+{
+  "folder": "9XCZmXitk6D02Iah",
+  "name": "Maimed ear",
+  "type": "injury",
+  "img": "systems/yzecoriolis/css/icons/injury-icon.svg",
+  "system": {
+    "description": "<p>You become @UUID[Compendium.coriolis-modern-combat.items.Item.GmzcOM0zvVbPQf0R]{Disheartened}.</p>",
+    "itemModifiers": {
+      "si_i3t4moo3z": {
+        "mod": "itemModifierAttrEmpathy",
+        "value": -2
+      }
+    },
+    "fatal": false,
+    "timeLimit": "",
+    "healTime": "D6 days",
+    "bonus": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 2,
+    "brVCs1dH5H79Y7Lr": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": "Item.5eaAjmZOxoNQhWUj",
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "yzecoriolis",
+    "systemVersion": "4.2.0",
+    "createdTime": 1769460367823,
+    "modifiedTime": 1769461631418,
+    "lastModifiedBy": "brVCs1dH5H79Y7Lr"
+  },
+  "_id": "qBBsmFoY76N5BzKh",
+  "_key": "!items!qBBsmFoY76N5BzKh"
+}

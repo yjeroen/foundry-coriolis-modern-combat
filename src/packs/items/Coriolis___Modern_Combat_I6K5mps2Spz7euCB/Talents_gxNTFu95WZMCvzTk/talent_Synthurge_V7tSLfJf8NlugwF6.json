@@ -1,0 +1,33 @@
+{
+  "folder": "gxNTFu95WZMCvzTk",
+  "name": "Synthurge",
+  "type": "talent",
+  "_id": "V7tSLfJf8NlugwF6",
+  "img": "systems/yzecoriolis/css/icons/talent-icon.svg",
+  "system": {
+    "description": "<p>You have specialized in synthesizing drugs. When you succeed on the <strong>Administer First Aid</strong> action, you can also select the following options. The target never rolls a Panic test due to Synthurge.</p>\n<ul>\n<li><strong>Ashbone:</strong> Your target gains a +1 bonus to the damage of their melee attacks until the end of their next turn, after which they suffer 1 stress.</li>\n<li><strong>Breath of Dura:</strong> Your target recovers 1 stress but also suffers 1 damage.</li>\n<li><strong>Kambra:</strong> Your target suffers 1 stress, but takes the result of 10 on their next Panic roll within 1 minute.</li>\n<li><strong>Zulami:</strong> Your target gains two extra Action Points that they can only use for Reactive Actions in the current and in the next turn, after which they suffer 1 stress.</li>\n</ul>",
+    "itemModifiers": {},
+    "category": "group",
+    "cost": 0,
+    "groupConcept": "agents"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 2,
+    "brVCs1dH5H79Y7Lr": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "yzecoriolis",
+    "systemVersion": "4.2.0",
+    "createdTime": 1769460367823,
+    "modifiedTime": 1769460367823,
+    "lastModifiedBy": "brVCs1dH5H79Y7Lr"
+  },
+  "_key": "!items!V7tSLfJf8NlugwF6"
+}

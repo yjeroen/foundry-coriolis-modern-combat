@@ -1,0 +1,480 @@
+{
+  "folder": "jQhZ8vvKzRAF6XJc",
+  "name": "Mental Trauma",
+  "_id": "UK1NjqMLeTDJsyuw",
+  "img": "modules/coriolis-modern-combat/assets/images/trauma-square.webp",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        11,
+        13
+      ],
+      "_id": "s8KMtmCg2h1rkmQi",
+      "name": "Trembling",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-1.webp",
+      "description": "<blockquote><p>You become Dazed as long as you suffer from this mental trauma.</p></blockquote><hr /><p><strong>Drag to Character Sheet:</strong> @UUID[Compendium.coriolis-modern-combat.items.Item.fZy5i1x8mbbXVmJN]{Trembling}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!UK1NjqMLeTDJsyuw.s8KMtmCg2h1rkmQi"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        14,
+        16
+      ],
+      "_id": "fU6PPg8cI0RbaXhk",
+      "name": "Anxious",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-2.webp",
+      "description": "<blockquote><p>You become Shaken as long as you suffer from this mental trauma.</p></blockquote><hr /><p><strong>Drag to Character Sheet:</strong> @UUID[Compendium.coriolis-modern-combat.items.Item.38UO9uY5fSOoOg6n]{Anxious}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!UK1NjqMLeTDJsyuw.fU6PPg8cI0RbaXhk"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        21,
+        23
+      ],
+      "_id": "clIMDcYkqvnbFxXz",
+      "name": "Sullen",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-3.webp",
+      "description": "<blockquote><p>You become Disheartened as long as you suffer from this mental trauma.</p></blockquote><hr /><p><strong>Drag to Character Sheet:</strong> @UUID[Compendium.coriolis-modern-combat.items.Item.Ve9miO1glzWkpED6]{Sullen}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!UK1NjqMLeTDJsyuw.clIMDcYkqvnbFxXz"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        24,
+        26
+      ],
+      "_id": "EZSrvkpIcGBqcmiA",
+      "name": "Delirium",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-4.webp",
+      "description": "<blockquote><p>You become Confused as long as long as you suffer from this mental trauma.</p></blockquote><hr /><p><strong>Drag to Character Sheet:</strong> @UUID[Compendium.coriolis-modern-combat.items.Item.9Fc5jLdXK6Rb339W]{Delirium}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!UK1NjqMLeTDJsyuw.EZSrvkpIcGBqcmiA"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        31,
+        33
+      ],
+      "_id": "ZQehyQirhNyYF3Qm",
+      "name": "Changed personality",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-5.webp",
+      "description": "<blockquote><p>Choose a new personality. (see character creation)</p></blockquote><hr /><p><strong>Drag to Character Sheet:</strong> @UUID[Compendium.coriolis-modern-combat.items.Item.CBpU58uBneOgx0L3]{Changed personality}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!UK1NjqMLeTDJsyuw.ZQehyQirhNyYF3Qm"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        34,
+        36
+      ],
+      "_id": "4yZl29gUmTlauKaz",
+      "name": "Worrisome",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-6.webp",
+      "description": "<blockquote><p>Even minor concerns (GM’s choice) count as stressful situations for you as long as you suffer from this mental trauma. In such a situation, roll a successful <strong>EMPATHY</strong> or lose 1 stress.</p></blockquote><hr /><p><strong>Drag to Character Sheet:</strong> @UUID[Compendium.coriolis-modern-combat.items.Item.mTDGIvL4scXVzCu1]{Worrisome}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!UK1NjqMLeTDJsyuw.4yZl29gUmTlauKaz"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        41,
+        42
+      ],
+      "_id": "Ss2eJLqU1hb8PErg",
+      "name": "Nightmares",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-7.webp",
+      "description": "<blockquote><p>Make an <strong>OBSERVATION</strong> roll every night spent sleeping as long as you suffer from this mental trauma. Failure means that the sleep doesn’t count.</p></blockquote><hr /><p><strong>Drag to Character Sheet:</strong> @UUID[Compendium.coriolis-modern-combat.items.Item.vM5KZdG8WgzSPk3O]{Nightmares}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!UK1NjqMLeTDJsyuw.Ss2eJLqU1hb8PErg"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        43,
+        44
+      ],
+      "_id": "KuAxTxsocgt6KLps",
+      "name": "Addict",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-8.webp",
+      "description": "<blockquote><p>You must consume a drug every day, or become Disheartened.</p></blockquote><hr /><p><strong>Drag to Character Sheet:</strong> @UUID[Compendium.coriolis-modern-combat.items.Item.lsxW7Urk4tgnpIrJ]{Addict}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!UK1NjqMLeTDJsyuw.KuAxTxsocgt6KLps"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        45,
+        46
+      ],
+      "_id": "gei41BCV3PMEqjpr",
+      "name": "Apathetic",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-9.webp",
+      "description": "<blockquote><p>You cannot push any dice rolls by Praying to the Icons, as long as you suffer from this mental trauma.</p></blockquote><hr /><p><strong>Drag to Character Sheet:</strong> @UUID[Compendium.coriolis-modern-combat.items.Item.EfAoIuSnCKD1TUVL]{Apathetic}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!UK1NjqMLeTDJsyuw.gei41BCV3PMEqjpr"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "_id": "8jtctdWCvMOG7GdU",
+      "name": "Phobic",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-1.webp",
+      "description": "<blockquote><p>You suffer 1 point of stress each round within Near range of the object of your phobia, which is connected to the traumatic event.</p></blockquote><hr /><p><strong>Drag to Character Sheet:</strong> @UUID[Compendium.coriolis-modern-combat.items.Item.96jP0YiapXqJ8tMF]{Phobic}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!UK1NjqMLeTDJsyuw.8jtctdWCvMOG7GdU"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        53,
+        54
+      ],
+      "_id": "gOiFnITwaU0bDjNK",
+      "name": "Claustrophobic",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-2.webp",
+      "description": "<blockquote><p>You suffer 1 point of stress every 15 minutes in a confined space, as long as you suffer from this mental trauma.</p></blockquote><hr /><p><strong>Drag to Character Sheet:</strong> @UUID[Compendium.coriolis-modern-combat.items.Item.BKJn0d8kKg0q8P7U]{Claustrophobic}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!UK1NjqMLeTDJsyuw.gOiFnITwaU0bDjNK"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        55,
+        56
+      ],
+      "_id": "vvs23hUbv9EwKD6r",
+      "name": "Hallucinations",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-3.webp",
+      "description": "<blockquote><p>Every 6 hours, you experience an hallucination. roll a successful <strong>EMPATHY</strong> or lose 1 stress.</p></blockquote><hr /><p><strong>Drag to Character Sheet:</strong> @UUID[Compendium.coriolis-modern-combat.items.Item.w7mcZIwXWxAmCEfU]{Hallucinations}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!UK1NjqMLeTDJsyuw.vvs23hUbv9EwKD6r"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "_id": "sgTPhwCVEda7vKgj",
+      "name": "Mythomaniac",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-4.webp",
+      "description": "<blockquote><p>You cannot stop yourself from lying about everything, as long as you suffer from this mental trauma.</p></blockquote><hr /><p><strong>Drag to Character Sheet: </strong>@UUID[Compendium.coriolis-modern-combat.items.Item.hypPTXFcaPU29SyW]{Mythomaniac}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!UK1NjqMLeTDJsyuw.sgTPhwCVEda7vKgj"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "_id": "v6STcrnCeuVJdwh9",
+      "name": "Paranoia",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-5.webp",
+      "description": "<blockquote><p>You are certain that someone is out to get you, as long as you suffer from this mental trauma.</p></blockquote><hr /><p><strong>Drag to Character Sheet: </strong>@UUID[Compendium.coriolis-modern-combat.items.Item.IEBbu9ppez106POp]{Paranoia}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!UK1NjqMLeTDJsyuw.v6STcrnCeuVJdwh9"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "_id": "Z3s3mKzgkweVUJu3",
+      "name": "Delusion",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-6.webp",
+      "description": "<blockquote><p>You are totally convinced of something that is totally untrue, as long as you suffer from this mental trauma.</p></blockquote><hr /><p><strong>Drag to Character Sheet:</strong> @UUID[Compendium.coriolis-modern-combat.items.Item.keIZetGDd2PWOsrL]{Delusion}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!UK1NjqMLeTDJsyuw.Z3s3mKzgkweVUJu3"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "_id": "0vhwzv9WFWTeDEVm",
+      "name": "Amnesia",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-7.webp",
+      "description": "<blockquote><p>You lose all memory, and cannot recollect who you or any of your friends are, as long as you suffer from this mental trauma.</p></blockquote><hr /><p><strong>Drag to Character Sheet:</strong> @UUID[Compendium.coriolis-modern-combat.items.Item.lE0QeW6kFTn2TCTI]{Amnesia}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!UK1NjqMLeTDJsyuw.0vhwzv9WFWTeDEVm"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "_id": "PYRICRKRVEa81Uyu",
+      "name": "Catatonic",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-8.webp",
+      "description": "<blockquote><p>You stare into oblivion, and do not respond to any stimuli, as long as you suffer from this mental trauma.</p></blockquote><hr /><p><strong>Drag to Character Sheet: </strong>@UUID[Compendium.coriolis-modern-combat.items.Item.mbzng6KAXidMYaJ3]{Catatonic}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!UK1NjqMLeTDJsyuw.PYRICRKRVEa81Uyu"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "_id": "3X8f7Ohlo7K6Ec6D",
+      "name": "Heart attack",
+      "img": "modules/coriolis-modern-combat/assets/images/coriolis-skull.webp",
+      "description": "<p style=\"text-align:center\"><em><strong>Your heart stops, and you die of pure fright.</strong></em></p><hr /><p><strong>Drag to Character Sheet:</strong> @UUID[Compendium.coriolis-modern-combat.items.Item.37BaF54xG5jWlfrX]{Heart attack}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!UK1NjqMLeTDJsyuw.3X8f7Ohlo7K6Ec6D"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "sort": 0,
+  "ownership": {
+    "default": 2,
+    "brVCs1dH5H79Y7Lr": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "yzecoriolis",
+    "systemVersion": "4.2.0",
+    "createdTime": 1769504116909,
+    "modifiedTime": 1769504116909,
+    "lastModifiedBy": "brVCs1dH5H79Y7Lr"
+  },
+  "formula": "1d6*10+1d6",
+  "_key": "!tables!UK1NjqMLeTDJsyuw"
+}

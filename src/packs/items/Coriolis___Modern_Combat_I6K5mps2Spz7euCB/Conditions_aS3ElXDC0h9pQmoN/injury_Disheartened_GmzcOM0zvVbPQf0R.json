@@ -1,0 +1,39 @@
+{
+  "folder": "aS3ElXDC0h9pQmoN",
+  "name": "Disheartened",
+  "type": "injury",
+  "img": "modules/coriolis-modern-combat/assets/images/critical-square.webp",
+  "system": {
+    "description": "<p>In Coriolis Third Horizon, critical injuries, mental trauma injuries or other situations and effects can lead to conditions. Most conditions give you modification on all rolls related to attributes.</p>\n<ul>\n<li><strong>Disheartened</strong>: -2 <strong>EMPATHY </strong></li>\n</ul>",
+    "itemModifiers": {
+      "si_zii6c78ka": {
+        "mod": "itemModifierAttrEmpathy",
+        "value": -2
+      }
+    },
+    "fatal": false,
+    "timeLimit": "",
+    "healTime": "Usually 1 hour",
+    "bonus": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 2,
+    "brVCs1dH5H79Y7Lr": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.ddHjLRJYJjG2tMf4",
+    "duplicateSource": "Item.ddHjLRJYJjG2tMf4",
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "yzecoriolis",
+    "systemVersion": "4.2.0",
+    "createdTime": 1769460367823,
+    "modifiedTime": 1769460367823,
+    "lastModifiedBy": "brVCs1dH5H79Y7Lr"
+  },
+  "_id": "GmzcOM0zvVbPQf0R",
+  "_key": "!items!GmzcOM0zvVbPQf0R"
+}

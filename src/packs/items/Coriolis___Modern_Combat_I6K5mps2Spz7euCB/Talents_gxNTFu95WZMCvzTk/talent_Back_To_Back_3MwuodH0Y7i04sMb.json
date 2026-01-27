@@ -1,0 +1,33 @@
+{
+  "folder": "gxNTFu95WZMCvzTk",
+  "name": "Back To Back",
+  "type": "talent",
+  "_id": "3MwuodH0Y7i04sMb",
+  "img": "systems/yzecoriolis/css/icons/talent-icon.svg",
+  "system": {
+    "description": "<pre><strong>Requires: Inspiring Aura | Cost: 10 XP<br></strong></pre>\n<hr>\n<p>You must be holding a talisman or other inspiring item in one hand. When you perform the <strong>Give Order</strong> action with those conditions, you can alternatively select the following stunts:</p>\n<ul>\n<li><strong>Cadence Call:</strong> All allies within Near range who can see you each gain +1 Action Point. This bonus Action Point can only be used for Reactive Actions before the start of their next turn, and only if they are standing beside another ally.</li>\n<li><strong>Empowering Presence:</strong> You increase the range of your Inspiring Aura stunt to Short range until the start of your next turn.</li>\n</ul>",
+    "itemModifiers": {},
+    "category": "general",
+    "cost": 0,
+    "groupConcept": ""
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 2,
+    "brVCs1dH5H79Y7Lr": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "yzecoriolis",
+    "systemVersion": "4.2.0",
+    "createdTime": 1769460367823,
+    "modifiedTime": 1769462095611,
+    "lastModifiedBy": "brVCs1dH5H79Y7Lr"
+  },
+  "_key": "!items!3MwuodH0Y7i04sMb"
+}

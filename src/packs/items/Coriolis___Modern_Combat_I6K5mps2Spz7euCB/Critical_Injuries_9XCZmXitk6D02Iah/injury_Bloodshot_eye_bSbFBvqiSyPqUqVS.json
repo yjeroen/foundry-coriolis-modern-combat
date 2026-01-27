@@ -1,0 +1,43 @@
+{
+  "folder": "9XCZmXitk6D02Iah",
+  "name": "Bloodshot eye",
+  "type": "injury",
+  "img": "systems/yzecoriolis/css/icons/injury-icon.svg",
+  "system": {
+    "description": "<p>You become @UUID[Compendium.coriolis-modern-combat.items.Item.oj8DBDbF82W0095D]{Distracted}.</p>",
+    "itemModifiers": {
+      "si_i3t4moo3z": {
+        "mod": "itemModifierAttrAgility",
+        "value": -1
+      },
+      "si_wbqrl197b": {
+        "mod": "itemModifierAttrWits",
+        "value": -1
+      }
+    },
+    "fatal": false,
+    "timeLimit": "",
+    "healTime": "6 hours",
+    "bonus": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 2,
+    "brVCs1dH5H79Y7Lr": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": "Item.RBwkEntJwf0MZKaf",
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "yzecoriolis",
+    "systemVersion": "4.2.0",
+    "createdTime": 1769460367823,
+    "modifiedTime": 1769461276069,
+    "lastModifiedBy": "brVCs1dH5H79Y7Lr"
+  },
+  "_id": "bSbFBvqiSyPqUqVS",
+  "_key": "!items!bSbFBvqiSyPqUqVS"
+}

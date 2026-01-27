@@ -1,0 +1,23 @@
+{
+  "type": "Item",
+  "folder": "I6K5mps2Spz7euCB",
+  "name": "Mental Trauma",
+  "color": null,
+  "sorting": "a",
+  "_id": "1JfHOAvl6I0ZZkjM",
+  "description": "",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "yzecoriolis",
+    "systemVersion": "4.2.0",
+    "createdTime": 1769460367792,
+    "modifiedTime": 1769460367792,
+    "lastModifiedBy": "brVCs1dH5H79Y7Lr"
+  },
+  "_key": "!folders!1JfHOAvl6I0ZZkjM"
+}

@@ -1,0 +1,23 @@
+{
+  "type": "Macro",
+  "folder": null,
+  "name": "Coriolis ✦ Modern Combat",
+  "color": "#8ab7c6",
+  "sorting": "a",
+  "_id": "oBYRcRPFVdm6V95H",
+  "description": "",
+  "sort": 100000,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "yzecoriolis",
+    "systemVersion": "4.2.0",
+    "createdTime": 1769461155358,
+    "modifiedTime": 1769461155381,
+    "lastModifiedBy": "brVCs1dH5H79Y7Lr"
+  },
+  "_key": "!folders!oBYRcRPFVdm6V95H"
+}

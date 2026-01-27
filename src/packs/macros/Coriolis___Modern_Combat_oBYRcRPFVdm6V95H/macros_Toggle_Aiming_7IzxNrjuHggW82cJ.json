@@ -1,0 +1,28 @@
+{
+  "folder": "oBYRcRPFVdm6V95H",
+  "name": "Toggle Aiming",
+  "type": "script",
+  "author": "brVCs1dH5H79Y7Lr",
+  "img": "icons/svg/target.svg",
+  "scope": "global",
+  "command": "if (!_token) {\n  ui.notifications.warn(game.i18n.localize(\"CORIOLISMODERNCOMBAT.SelectToken\"));\n  return;\n}\n\nconst effect = await _token.actor.toggleStatusEffect('aiming');\nif (effect) {\n  ui.notifications.info(game.i18n.format(\"CORIOLISMODERNCOMBAT.ToggleEffect\", { effect: game.i18n.localize(\"CORIOLISMODERNCOMBAT.EFFECT.Aiming\") }));\n}",
+  "ownership": {
+    "default": 2,
+    "brVCs1dH5H79Y7Lr": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "yzecoriolis",
+    "systemVersion": "4.2.0",
+    "createdTime": 1769511209263,
+    "modifiedTime": 1769511242266,
+    "lastModifiedBy": "brVCs1dH5H79Y7Lr"
+  },
+  "_id": "7IzxNrjuHggW82cJ",
+  "sort": 100000,
+  "_key": "!macros!7IzxNrjuHggW82cJ"
+}

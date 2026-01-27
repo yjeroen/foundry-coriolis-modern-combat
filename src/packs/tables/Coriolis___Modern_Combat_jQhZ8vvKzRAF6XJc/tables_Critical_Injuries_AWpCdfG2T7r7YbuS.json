@@ -1,0 +1,930 @@
+{
+  "folder": "jQhZ8vvKzRAF6XJc",
+  "name": "Critical Injuries",
+  "img": "modules/coriolis-modern-combat/assets/images/critical-square.webp",
+  "description": "<h3></h3>",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "_id": "azMFMlnMEzqAtl53",
+      "name": "Whiplashed neck",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-1.webp",
+      "description": "<blockquote><p>You become Exhausted for six hours.</p></blockquote><hr /><p><strong>Drag to Character Sheet: </strong>@UUID[Compendium.coriolis-modern-combat.items.Item.aQZ2Nxa90kOxYS7r]{Whiplashed neck}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!AWpCdfG2T7r7YbuS.azMFMlnMEzqAtl53"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "_id": "uwlUlJAxtGOST3fc",
+      "name": "Blackout",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-2.webp",
+      "description": "<blockquote><p>You become Dazed for six hours.</p></blockquote><hr /><p><strong>Drag to Character Sheet: </strong>@UUID[Compendium.coriolis-modern-combat.items.Item.KhnIet1iyWZcUZwl]{Blackout}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!AWpCdfG2T7r7YbuS.uwlUlJAxtGOST3fc"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "_id": "6Jqrr9gi8ZvJk70S",
+      "name": "Crippling pain",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-3.webp",
+      "description": "<blockquote><p>You become Confused for six hours.</p></blockquote><hr /><p><strong>Drag to Character Sheet: </strong>@UUID[Compendium.coriolis-modern-combat.items.Item.XZG6dNdz7XvB5xyT]{Crippling pain}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!AWpCdfG2T7r7YbuS.6Jqrr9gi8ZvJk70S"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "_id": "Ugao31uAOCaKNAya",
+      "name": "Bloodshot eye",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-4.webp",
+      "description": "<blockquote><p>You become Distracted for six hours.</p></blockquote><hr /><p><strong>Drag to Character Sheet: </strong>@UUID[Compendium.coriolis-modern-combat.items.Item.bSbFBvqiSyPqUqVS]{Bloodshot eye}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!AWpCdfG2T7r7YbuS.Ugao31uAOCaKNAya"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "_id": "pVA39E6doKhMWf5x",
+      "name": "Grazing hit",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-5.webp",
+      "description": "<blockquote><p>You become Shaken for six hours.</p></blockquote><hr /><p><strong>Drag to Character Sheet: </strong>@UUID[Compendium.coriolis-modern-combat.items.Item.QvFo6XvfmohaozNr]{Grazing hit}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!AWpCdfG2T7r7YbuS.pVA39E6doKhMWf5x"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "_id": "018lasiVN3D2soYK",
+      "name": "Ringing skull",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-6.webp",
+      "description": "<blockquote><p>You become Disheartened for six hours.</p></blockquote><hr /><p><strong>Drag to Character Sheet: </strong>@UUID[Compendium.coriolis-modern-combat.items.Item.5eaAjmZOxoNQhWUj]{Ringing skull}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!AWpCdfG2T7r7YbuS.018lasiVN3D2soYK"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "_id": "zWMYoDGzLVkz3Q0G",
+      "name": "Sprained ankle",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-7.webp",
+      "description": "<blockquote><p>You become Hampered for six hours.</p></blockquote><hr /><p><strong>Drag to Character Sheet: </strong>@UUID[Compendium.coriolis-modern-combat.items.Item.W4JyOQyw4T6H6Ngb]{Sprained ankle}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!AWpCdfG2T7r7YbuS.zWMYoDGzLVkz3Q0G"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "_id": "SpDsgLDnG8LGeAS2",
+      "name": "Torn sinew",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-8.webp",
+      "description": "<blockquote><p>You become Hampered for [[d6]] days.</p></blockquote><hr /><p><strong>Drag to Character Sheet: </strong>@UUID[Compendium.coriolis-modern-combat.items.Item.bi8Eqr9fVyg7Zt1A]{Torn sinew}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!AWpCdfG2T7r7YbuS.SpDsgLDnG8LGeAS2"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "_id": "42AiaoirBs6S5tKE",
+      "name": "Fractured rib",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-1.webp",
+      "description": "<blockquote><p>You become Shaken for [[d6]] days.</p></blockquote><hr /><p><strong>Drag to Character Sheet: </strong>@UUID[Compendium.coriolis-modern-combat.items.Item.fjVI5YV2o1F7kBir]{Fractured rib}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!AWpCdfG2T7r7YbuS.42AiaoirBs6S5tKE"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "_id": "Qo01x0dakAUgwMwP",
+      "name": "Maimed ear",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-7.webp",
+      "description": "<blockquote><p>You become Disheartened for [[d6]] days.</p></blockquote><hr /><p><strong>Drag to Character Sheet: </strong>@UUID[Compendium.coriolis-modern-combat.items.Item.qBBsmFoY76N5BzKh]{Maimed ear}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!AWpCdfG2T7r7YbuS.Qo01x0dakAUgwMwP"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "_id": "xVFddIYMYOuvrXzU",
+      "name": "Cracked pelvis",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-2.webp",
+      "description": "<blockquote><p>You become Distracted for [[d6]] days.</p></blockquote><hr /><p><strong>Drag to Character Sheet: </strong>@UUID[Compendium.coriolis-modern-combat.items.Item.2qtyf1UaViyV9zoS]{Cracked pelvis}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!AWpCdfG2T7r7YbuS.xVFddIYMYOuvrXzU"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "_id": "qDgYM5jlXHbYLIj6",
+      "name": "Ear drum burst",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-4.webp",
+      "description": "<blockquote><p>You become Confused for [[2d6]] days.</p></blockquote><hr /><p><strong>Drag to Character Sheet: </strong>@UUID[Compendium.coriolis-modern-combat.items.Item.y0mJm0cWCufk8PlK]{Ear drum burst}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!AWpCdfG2T7r7YbuS.qDgYM5jlXHbYLIj6"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "_id": "7T0J4PpdcqWYqzsa",
+      "name": "Nerve damage",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-1.webp",
+      "description": "<blockquote><p>You become Dazed for [[2d6]] days.</p></blockquote><hr /><p><strong>Drag to Character Sheet: </strong>@UUID[Compendium.coriolis-modern-combat.items.Item.6D8ohQiJRazp6h6w]{Nerve damage}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!AWpCdfG2T7r7YbuS.7T0J4PpdcqWYqzsa"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "_id": "XXTAGC2E4jY3wAl1",
+      "name": "Broken foot",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-2.webp",
+      "description": "<blockquote><p>You become Impeded for [[2d6]] days.</p></blockquote><hr /><p><strong>Drag to Character Sheet: </strong>@UUID[Compendium.coriolis-modern-combat.items.Item.95eYN0ttbidi82Mc]{Broken foot}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!AWpCdfG2T7r7YbuS.XXTAGC2E4jY3wAl1"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "_id": "k5yww6RXyYb9jRcJ",
+      "name": "Broken arm",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-3.webp",
+      "description": "<blockquote><p>You can’t use an arm for [[2d6]] days.</p></blockquote><hr /><p><strong>Drag to Character Sheet: </strong>@UUID[Compendium.coriolis-modern-combat.items.Item.SbM6P0qTqLQFPOWN]{Broken arm}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!AWpCdfG2T7r7YbuS.k5yww6RXyYb9jRcJ"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "_id": "iojO26MxFFkUHGKB",
+      "name": "Broken leg",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-4.webp",
+      "description": "<blockquote><p>You become Hampered for [[2d6]] days.</p></blockquote><hr /><p><strong>Drag to Character Sheet: </strong>@UUID[Compendium.coriolis-modern-combat.items.Item.UA4VtFeSh6IVcsKW]{Broken leg}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!AWpCdfG2T7r7YbuS.iojO26MxFFkUHGKB"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "_id": "9bO6FG9QA8jTgUnJ",
+      "name": "Broken ribs",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-5.webp",
+      "description": "<blockquote><p>You become Exhausted and Hampered for [[2d6]] days.</p></blockquote><hr /><p><strong>Drag to Character Sheet: </strong>@UUID[Compendium.coriolis-modern-combat.items.Item.u6Z3kXsiuRUfAian]{Broken ribs}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!AWpCdfG2T7r7YbuS.9bO6FG9QA8jTgUnJ"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "_id": "LMfFU6XlFskDZYTs",
+      "name": "Gouged eye",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-6.webp",
+      "description": "<blockquote><p>You become Distracted and Shaken for [[2d6]] days.</p></blockquote><hr /><p><strong>Drag to Character Sheet: </strong>@UUID[Compendium.coriolis-modern-combat.items.Item.pDhbVX8pJZeTMfYE]{Gouged eye}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!AWpCdfG2T7r7YbuS.LMfFU6XlFskDZYTs"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "_id": "U39kj0HPL4ICtD4l",
+      "name": "Concussion",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-7.webp",
+      "description": "<blockquote><p>You become Distracted and Confused for [[2d6]] days.</p></blockquote><hr /><p><strong>Drag to Character Sheet: </strong>@UUID[Compendium.coriolis-modern-combat.items.Item.y6W5Einf28JHU9Lz]{Concussion}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!AWpCdfG2T7r7YbuS.U39kj0HPL4ICtD4l"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "_id": "S5vUHoMa9hKdU1Lt",
+      "name": "Punctured lung",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-8.webp",
+      "description": "<blockquote><p>You become Exhausted and Dazed for [[2d6]] days. You are <strong>lethally</strong> wounded and will die unless stabilized within <strong>one day</strong>.</p></blockquote><hr /><p><strong>Drag to Character Sheet: </strong>@UUID[Compendium.coriolis-modern-combat.items.Item.I8LC7dZGWDsNVBjC]{Punctured lung}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!AWpCdfG2T7r7YbuS.S5vUHoMa9hKdU1Lt"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "_id": "yUzEv4I0fIWXiRIy",
+      "name": "Busted kidney",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-9.webp",
+      "description": "<blockquote><p>You become Exhausted and you can only crawl as movement for [[2d6]] days. You are <strong>lethally</strong> wounded and will die unless stabilized within <strong>one day</strong>.</p></blockquote><hr /><p><strong>Drag to Character Sheet: </strong>@UUID[Compendium.coriolis-modern-combat.items.Item.EZFFs8waTv4JqzWO]{Busted kidney}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!AWpCdfG2T7r7YbuS.yUzEv4I0fIWXiRIy"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "_id": "JDGHEIzGRhcSaLGG",
+      "name": "Severed arm",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-1.webp",
+      "description": "<blockquote><p>Can no longer use an arm <span style=\"font-size:9.0pt;mso-bidi-font-size:11.0pt;font-family:Roboto;mso-fareast-font-family:'Times New Roman';mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:'Times New Roman';color:windowtext;mso-ansi-language:EN-US;mso-fareast-language:EN-GB;mso-bidi-language:AR-SA\">–</span> permanently. You are <strong>lethally</strong> wounded and will die unless stabilized within <strong>one hour</strong>.</p></blockquote><hr /><p><strong>Drag to Character Sheet: </strong>@UUID[Compendium.coriolis-modern-combat.items.Item.PePxnb80kkX2EvnI]{Severed arm}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!AWpCdfG2T7r7YbuS.JDGHEIzGRhcSaLGG"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "_id": "zf40bPyfBCnPF1Pc",
+      "name": "Severed leg",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-2.webp",
+      "description": "<blockquote><p>You can no longer use a leg and you can only crawl as movement <span style=\"font-size:9.0pt;mso-bidi-font-size:11.0pt;font-family:Roboto;mso-fareast-font-family:'Times New Roman';mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:'Times New Roman';color:windowtext;mso-ansi-language:EN-US;mso-fareast-language:EN-GB;mso-bidi-language:AR-SA\">–</span> permanently. You are <strong>lethally</strong> wounded and will die unless stabilized within <strong>one hour</strong>.</p></blockquote><hr /><p><strong>Drag to Character Sheet: </strong>@UUID[Compendium.coriolis-modern-combat.items.Item.07hQQZgLgGTJx7HF]{Severed leg}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!AWpCdfG2T7r7YbuS.zf40bPyfBCnPF1Pc"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "_id": "Sv6xon1mSfmsGyFm",
+      "name": "Internal bleeding",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-8.webp",
+      "description": "<blockquote><p>You become Shaken and Disheartened for [[d6]] days. You are <strong>lethally</strong> wounded and will die unless stabilized within <strong>one hour</strong>.</p></blockquote><hr /><p><strong>Drag to Character Sheet: </strong>@UUID[Compendium.coriolis-modern-combat.items.Item.1IMas8reKCHWKccu]{Internal bleeding}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!AWpCdfG2T7r7YbuS.Sv6xon1mSfmsGyFm"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "_id": "8Ob639m8DPxzrMYE",
+      "name": "Bleeding gut",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-9.webp",
+      "description": "<blockquote><p>You take 1 damage when rolling STRENGTH or AGILITY skills for [[d6]] days. You are <strong>lethally</strong> wounded and will die unless stabilized within <strong>one minute</strong>.</p></blockquote><hr /><p><strong>Drag to Character Sheet: </strong>@UUID[Compendium.coriolis-modern-combat.items.Item.HSIw4RVSlBdSsRK9]{Bleeding gut}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!AWpCdfG2T7r7YbuS.8Ob639m8DPxzrMYE"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "_id": "QDNSn1RONVgz1aav",
+      "name": "Arm artery cut",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-6.webp",
+      "description": "<blockquote><p>You can’t use an arm for [[d6]] days. You are <strong>lethally</strong> wounded and will die unless stabilized within <strong>one minute</strong>.</p></blockquote><hr /><p><strong>Drag to Character Sheet: </strong>@UUID[Compendium.coriolis-modern-combat.items.Item.OW6uZzmN9tF0Eyn1]{Arm artery cut}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!AWpCdfG2T7r7YbuS.QDNSn1RONVgz1aav"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "_id": "V04uL47PxuaLFwKh",
+      "name": "Bruised ribs",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-5.webp",
+      "description": "<blockquote><p>You become Exhausted for [[d6]] days.</p></blockquote><hr /><p><strong>Drag to Character Sheet: </strong>@UUID[Compendium.coriolis-modern-combat.items.Item.KhOn0r3le6TvWLFL]{Bruised ribs}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!AWpCdfG2T7r7YbuS.V04uL47PxuaLFwKh"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "_id": "VxnvaVxJGCjUcExi",
+      "name": "Vertigo",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-3.webp",
+      "description": "<blockquote><p>You become Dazed for [[d6]] days.</p></blockquote><hr /><p><strong>Drag to Character Sheet: </strong>@UUID[Compendium.coriolis-modern-combat.items.Item.viXZTSXHoLOO6tlM]{Vertigo}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!AWpCdfG2T7r7YbuS.VxnvaVxJGCjUcExi"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "_id": "9eobq5f51mEVLscB",
+      "name": "Crushed sternum",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-9.webp",
+      "description": "<blockquote><p>You become Exhausted for [[2d6]] days.</p></blockquote><hr /><p><strong>Drag to Character Sheet: </strong>@UUID[Compendium.coriolis-modern-combat.items.Item.bGF2oIYwVMO59Pxq]{Crushed sternum}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!AWpCdfG2T7r7YbuS.9eobq5f51mEVLscB"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "_id": "34ZVKHK9sf0mmlpb",
+      "name": "Leg artery cut",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-3.webp",
+      "description": "<blockquote><p>You become Dazed and Impeded for [[d6]] days. You are <strong>lethally</strong> wounded and will die unless stabilized within <strong>one minute</strong>.</p></blockquote><hr /><p><strong>Drag to Character Sheet: </strong>@UUID[Compendium.coriolis-modern-combat.items.Item.HZwEPVqb4SQ8UJwD]{Leg artery cut}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!AWpCdfG2T7r7YbuS.34ZVKHK9sf0mmlpb"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "_id": "yGT9LCBe1QEVw2pV",
+      "name": "Cracked head",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-4.webp",
+      "description": "<blockquote><p>You become Confused and Dazed for [[3d6]] days. You are <strong>lethally</strong> wounded and will die unless stabilized within <strong>[[d6]] rounds</strong>.</p></blockquote><hr /><p><strong>Drag to Character Sheet: </strong>@UUID[Compendium.coriolis-modern-combat.items.Item.f3vmKPYR86EM7pJT]{Cracked head}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!AWpCdfG2T7r7YbuS.yGT9LCBe1QEVw2pV"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "_id": "NWOgKTFzVleZx3Cj",
+      "name": "Burst intestines",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-5.webp",
+      "description": "<blockquote><p>You become Disheartened and Exhausted for [[3d6]] days. You are <strong>lethally</strong> wounded and will die unless stabilized within <strong>[[d6]] rounds</strong>.</p></blockquote><hr /><p><strong>Drag to Character Sheet: </strong>@UUID[Compendium.coriolis-modern-combat.items.Item.6M9HmumnYeZKoelZ]{Burst intestines}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!AWpCdfG2T7r7YbuS.NWOgKTFzVleZx3Cj"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "_id": "SfBUVrQpOJKMwhS5",
+      "name": "Ruptured aorta",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-6.webp",
+      "description": "<blockquote><p>You become Dazed and Exhausted for [[3d6]] days. You are <strong>lethally</strong> wounded and will die unless stabilized within <strong>[[d6]] rounds</strong>.</p></blockquote><hr /><p><strong>Drag to Character Sheet: </strong>@UUID[Compendium.coriolis-modern-combat.items.Item.N7pmzVCufHlkV7rP]{Ruptured aorta}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!AWpCdfG2T7r7YbuS.SfBUVrQpOJKMwhS5"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "_id": "JBwhHmGEdqVClR2k",
+      "name": "Crushed skull",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-7.webp",
+      "description": "<blockquote><p>You become Confused, Dazed and Exhausted for [[3d6]] days. You are lethally wounded and will die unless stabilized within 1 round.</p></blockquote><hr /><p><strong>Drag to Character Sheet: </strong>@UUID[Compendium.coriolis-modern-combat.items.Item.LNsyTfAaHtihpdjy]{Crushed Skull}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!AWpCdfG2T7r7YbuS.JBwhHmGEdqVClR2k"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "_id": "GVTmAPOBmXs4tHcX",
+      "name": "Shattered head",
+      "img": "modules/coriolis-modern-combat/assets/images/coriolis-skull.webp",
+      "description": "<p style=\"text-align:center\"><em><strong>You die immediately.</strong></em></p><hr /><p><strong>Drag to Character Sheet: </strong>@UUID[Compendium.coriolis-modern-combat.items.Item.4q6eWaxastObzX20]{Shattered head}</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!AWpCdfG2T7r7YbuS.GVTmAPOBmXs4tHcX"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "_id": "H1d4AJefhixrd1dM",
+      "name": "Impaled heart",
+      "img": "modules/coriolis-modern-combat/assets/images/coriolis-skull.webp",
+      "description": "<p style=\"text-align:center\"><em><strong>Your heart beats for the last time.</strong></em></p><hr /><p><strong>Drag to Character Sheet: </strong>@UUID[Compendium.coriolis-modern-combat.items.Item.KdzZffwPVMzMp0Gu]{Impaled heart}</p><p></p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!AWpCdfG2T7r7YbuS.H1d4AJefhixrd1dM"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": false,
+  "sort": 0,
+  "ownership": {
+    "default": 2,
+    "brVCs1dH5H79Y7Lr": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": "RollTable.I1htfrUHP272k0MQ",
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "yzecoriolis",
+    "systemVersion": "4.2.0",
+    "createdTime": 1769504116909,
+    "modifiedTime": 1769504116909,
+    "lastModifiedBy": "brVCs1dH5H79Y7Lr"
+  },
+  "formula": "1d6*10+1d6",
+  "_id": "AWpCdfG2T7r7YbuS",
+  "_key": "!tables!AWpCdfG2T7r7YbuS"
+}

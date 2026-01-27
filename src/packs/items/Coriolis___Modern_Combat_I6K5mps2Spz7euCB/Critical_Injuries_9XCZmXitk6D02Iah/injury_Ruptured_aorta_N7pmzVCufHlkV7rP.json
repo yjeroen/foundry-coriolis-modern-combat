@@ -1,0 +1,43 @@
+{
+  "folder": "9XCZmXitk6D02Iah",
+  "name": "Ruptured aorta",
+  "type": "injury",
+  "img": "systems/yzecoriolis/css/icons/injury-icon.svg",
+  "system": {
+    "description": "<p>You become @UUID[Compendium.coriolis-modern-combat.items.Item.iR0XsAz6ptPvbGNU]{Dazed} and @UUID[Compendium.coriolis-modern-combat.items.Item.ddHjLRJYJjG2tMf4]{Exhausted}.</p>",
+    "itemModifiers": {
+      "si_i3t4moo3z": {
+        "mod": "itemModifierAttrStrength",
+        "value": -2
+      },
+      "si_3257e073f": {
+        "mod": "itemModifierAttrAgility",
+        "value": -2
+      }
+    },
+    "fatal": true,
+    "timeLimit": "D6 rounds",
+    "healTime": "3D6 days",
+    "bonus": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 2,
+    "brVCs1dH5H79Y7Lr": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": "Item.6M9HmumnYeZKoelZ",
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "yzecoriolis",
+    "systemVersion": "4.2.0",
+    "createdTime": 1769460367823,
+    "modifiedTime": 1769461699181,
+    "lastModifiedBy": "brVCs1dH5H79Y7Lr"
+  },
+  "_id": "N7pmzVCufHlkV7rP",
+  "_key": "!items!N7pmzVCufHlkV7rP"
+}

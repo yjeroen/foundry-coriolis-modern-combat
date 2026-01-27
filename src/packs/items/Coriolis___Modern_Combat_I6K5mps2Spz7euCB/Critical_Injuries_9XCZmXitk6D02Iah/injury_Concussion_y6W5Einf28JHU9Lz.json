@@ -1,0 +1,43 @@
+{
+  "folder": "9XCZmXitk6D02Iah",
+  "name": "Concussion",
+  "type": "injury",
+  "img": "systems/yzecoriolis/css/icons/injury-icon.svg",
+  "system": {
+    "description": "<p>You become @UUID[Compendium.coriolis-modern-combat.items.Item.oj8DBDbF82W0095D]{Distracted} and @UUID[Compendium.coriolis-modern-combat.items.Item.IiJp0aqnZZ3ezeq6]{Confused}.</p>",
+    "itemModifiers": {
+      "si_i3t4moo3z": {
+        "mod": "itemModifierAttrAgility",
+        "value": -1
+      },
+      "si_18azi6w8o": {
+        "mod": "itemModifierAttrWits",
+        "value": -3
+      }
+    },
+    "fatal": false,
+    "timeLimit": "",
+    "healTime": "2D6 days",
+    "bonus": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 2,
+    "brVCs1dH5H79Y7Lr": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": "Item.mx0tenctf5cqO6nq",
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "yzecoriolis",
+    "systemVersion": "4.2.0",
+    "createdTime": 1769460367823,
+    "modifiedTime": 1769461389442,
+    "lastModifiedBy": "brVCs1dH5H79Y7Lr"
+  },
+  "_id": "y6W5Einf28JHU9Lz",
+  "_key": "!items!y6W5Einf28JHU9Lz"
+}

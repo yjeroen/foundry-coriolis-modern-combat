@@ -1,0 +1,28 @@
+{
+  "name": "Panic Roll to Chat",
+  "type": "chat",
+  "author": "brVCs1dH5H79Y7Lr",
+  "img": "modules/coriolis-modern-combat/assets/images/stress-square.webp",
+  "scope": "global",
+  "command": "<strong style=\"font-size:20px\">Panic!</strong>\n<div><img src=\"/modules/coriolis-modern-combat/assets/images/stress-bar.webp\"></div>\nRoll to see if you're panicking:\n\n<div style=\"text-align:center\">@UUID[Compendium.coriolis-modern-combat.macros.Macro.v39tY5UnzDqaTtp8]{Panic Roll}</div><hr>",
+  "folder": "oBYRcRPFVdm6V95H",
+  "sort": 1200000,
+  "ownership": {
+    "default": 0,
+    "brVCs1dH5H79Y7Lr": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": "Macro.pjBU9pCOWOtjGuS0",
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "yzecoriolis",
+    "systemVersion": "4.2.0",
+    "createdTime": 1769461155368,
+    "modifiedTime": 1769511242266,
+    "lastModifiedBy": "brVCs1dH5H79Y7Lr"
+  },
+  "_id": "Pxga0mfuI8a6KQAO",
+  "_key": "!macros!Pxga0mfuI8a6KQAO"
+}

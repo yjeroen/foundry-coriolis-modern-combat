@@ -1,0 +1,43 @@
+{
+  "folder": "9XCZmXitk6D02Iah",
+  "name": "Internal bleeding",
+  "type": "injury",
+  "img": "systems/yzecoriolis/css/icons/injury-icon.svg",
+  "system": {
+    "description": "<p>You become @UUID[Compendium.coriolis-modern-combat.items.Item.W9teLL5AGPI2Byg2]{Shaken} and @UUID[Compendium.coriolis-modern-combat.items.Item.GmzcOM0zvVbPQf0R]{Disheartened}.</p>",
+    "itemModifiers": {
+      "si_i3t4moo3z": {
+        "mod": "itemModifierAttrStrength",
+        "value": -1
+      },
+      "si_wbqrl197b": {
+        "mod": "itemModifierAttrEmpathy",
+        "value": -3
+      }
+    },
+    "fatal": true,
+    "timeLimit": "One hour",
+    "healTime": "D6 days",
+    "bonus": 0
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 2,
+    "brVCs1dH5H79Y7Lr": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": "Item.wpK6t6lglpQab2O5",
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "yzecoriolis",
+    "systemVersion": "4.2.0",
+    "createdTime": 1769460367823,
+    "modifiedTime": 1769461576542,
+    "lastModifiedBy": "brVCs1dH5H79Y7Lr"
+  },
+  "_id": "1IMas8reKCHWKccu",
+  "_key": "!items!1IMas8reKCHWKccu"
+}

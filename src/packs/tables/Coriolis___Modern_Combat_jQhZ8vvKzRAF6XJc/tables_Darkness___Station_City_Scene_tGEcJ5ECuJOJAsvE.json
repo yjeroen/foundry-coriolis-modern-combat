@@ -1,0 +1,230 @@
+{
+  "folder": "jQhZ8vvKzRAF6XJc",
+  "name": "Darkness ✦ Station/City Scene",
+  "img": "modules/coriolis-modern-combat/assets/images/stars-white-7.webp",
+  "description": "<h3></h3>",
+  "results": [
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "_id": "azMFMlnMEzqAtl53",
+      "name": "A Dark Mind",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-1.webp",
+      "description": "<blockquote><p>A random PC is suddenly stricken with a random mania for 1 hour.</p></blockquote><hr /><p><strong>Consumes:</strong> 2 Darkness</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!tGEcJ5ECuJOJAsvE.azMFMlnMEzqAtl53"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "_id": "uwlUlJAxtGOST3fc",
+      "name": "Radiation",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-2.webp",
+      "description": "<blockquote><p>White fumes suddenly spout out of ruptured tubes. The area is filled with radiation. (1 radiation each minute)</p></blockquote><hr /><p><strong>Consumes:</strong> 1 Darkness</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!tGEcJ5ECuJOJAsvE.uwlUlJAxtGOST3fc"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "_id": "6Jqrr9gi8ZvJk70S",
+      "name": "Explosion",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-3.webp",
+      "description": "<blockquote><p>Lethal danger appears suddenly in the environment. A pipe broke, a container explodes, bad maintenance. The area is filled with fire. (Fire intensity <strong>4</strong>)</p></blockquote><hr /><p><strong>Consumes:</strong> 1 Darkness</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!tGEcJ5ECuJOJAsvE.6Jqrr9gi8ZvJk70S"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "_id": "Ugao31uAOCaKNAya",
+      "name": "Innocent in Danger",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-4.webp",
+      "description": "<blockquote><p>An innocent bystander is in some kind of danger. Will the PCs intervene?</p></blockquote><hr /><p><strong>Consumes:</strong> 2 Darkness</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!tGEcJ5ECuJOJAsvE.Ugao31uAOCaKNAya"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        5,
+        6
+      ],
+      "_id": "pVA39E6doKhMWf5x",
+      "name": "Personal Problem",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-5.webp",
+      "description": "<blockquote><p>A random PC’s personal problem affects them in a manner the GM chooses.</p></blockquote><hr /><p><strong>Consumes:</strong> 1 Darkness</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!tGEcJ5ECuJOJAsvE.pVA39E6doKhMWf5x"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "_id": "018lasiVN3D2soYK",
+      "name": "Public Transport Crash",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-6.webp",
+      "description": "<blockquote><p>Due to a djinn wrath or physical crash, public transport is not working for 1 day. This might cause public panic.</p></blockquote><hr /><p><strong>Consumes:</strong> 1 Darkness</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!tGEcJ5ECuJOJAsvE.018lasiVN3D2soYK"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        8,
+        9
+      ],
+      "_id": "zWMYoDGzLVkz3Q0G",
+      "name": "Broken Equipment",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-7.webp",
+      "description": "<blockquote><p>The next time any PC uses an item, it is broken. It could be anything from a weapon to a computer. A <strong>TECHNOLOGY</strong> or <strong>DATA DJINN</strong> roll is required to repair it, which takes at least 1 hour</p></blockquote><hr /><p><strong>Consumes:</strong> 2 Darkness</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!tGEcJ5ECuJOJAsvE.zWMYoDGzLVkz3Q0G"
+    },
+    {
+      "type": "text",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "_id": "EnWkpuVDCRmPi0zt",
+      "name": "Lost Possession",
+      "img": "modules/coriolis-modern-combat/assets/images/stars-white-8.webp",
+      "description": "<blockquote><p>A PC has dropped (or was robbed of) an important possession. The GM decides which.</p></blockquote><hr /><p><strong>Consumes:</strong> 3 Darkness</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "yzecoriolis",
+        "systemVersion": "4.2.0",
+        "lastModifiedBy": null
+      },
+      "documentUuid": null,
+      "_key": "!tables.results!tGEcJ5ECuJOJAsvE.EnWkpuVDCRmPi0zt"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "brVCs1dH5H79Y7Lr": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": "RollTable.0EqVjunEI421G48Q",
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "yzecoriolis",
+    "systemVersion": "4.2.0",
+    "createdTime": 1769504116909,
+    "modifiedTime": 1769504116909,
+    "lastModifiedBy": "brVCs1dH5H79Y7Lr"
+  },
+  "formula": "1d10",
+  "_id": "tGEcJ5ECuJOJAsvE",
+  "_key": "!tables!tGEcJ5ECuJOJAsvE"
+}

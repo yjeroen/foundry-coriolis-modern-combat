@@ -1,0 +1,28 @@
+{
+  "folder": "oBYRcRPFVdm6V95H",
+  "name": "Toggle Overwatch",
+  "type": "script",
+  "author": "brVCs1dH5H79Y7Lr",
+  "img": "icons/svg/eye.svg",
+  "scope": "global",
+  "command": "if (!_token) {\n  ui.notifications.warn(game.i18n.localize(\"CORIOLISMODERNCOMBAT.SelectToken\"));\n  return;\n}\n\nconst effect = await _token.actor.toggleStatusEffect('overwatch');\nif (effect) {\n  ui.notifications.info(game.i18n.format(\"CORIOLISMODERNCOMBAT.ToggleEffect\", { effect: game.i18n.localize(\"CORIOLISMODERNCOMBAT.EFFECT.InOverwatch\") }));\n}",
+  "ownership": {
+    "default": 2,
+    "brVCs1dH5H79Y7Lr": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "yzecoriolis",
+    "systemVersion": "4.2.0",
+    "createdTime": 1769511217137,
+    "modifiedTime": 1769511242266,
+    "lastModifiedBy": "brVCs1dH5H79Y7Lr"
+  },
+  "_id": "HL3l92cjvnbO5RJF",
+  "sort": 500000,
+  "_key": "!macros!HL3l92cjvnbO5RJF"
+}
