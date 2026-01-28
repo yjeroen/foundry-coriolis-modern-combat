@@ -19,7 +19,7 @@ _Oye Zenithians and Firstcome!_ This is a module for the RPG System `Coriolis: T
 
 > _Welcome to the Third Horizon, traveler of the stars. Along your journey, you will experience marvelous things. Ahead lies intrigue and the Dark between the Stars. The struggle for the Horizon has started – only the Icons themselves know how it will end._
 
-This expansion modernizes the `Coriolis: The Hird Horizon` combat rules, drawing inspiration from other Year Zero Engine RPGs (such as ALIEN and Coriolis: The Great Dark), as well as community house rules. It remains fully compatible with the Core Rulebook and existing Talents. It expands on the 3-action system with inspirations from Shadowrun and Pathfinder 2E, changes Darkness with random events, adjusts character advancement options, and expands the stress mechanic with panic and mental trauma.
+This expansion modernizes the `Coriolis: The Third Horizon` combat rules, drawing inspiration from other Year Zero Engine RPGs (such as ALIEN and Coriolis: The Great Dark), as well as community house rules. It remains fully compatible with the Core Rulebook and existing Talents. It expands on the 3-action system with inspirations from Shadowrun and Pathfinder 2E, changes Darkness with random events, adjusts character advancement options, and expands the stress mechanic with panic and mental trauma.
 
 
 
@@ -86,6 +86,8 @@ See [CHANGELOG](https://github.com/yjeroen/foundry-coriolis-modern-combat/blob/m
 **Project Licensing:**
 
 - All HTML, CSS and Javascript in this project is licensed under the GNU General Public License.
+- Included icons are free-license “Designed by [Freepik](www.freepik.com)” images, edited an& customized via Affinity Photo 2 and Affinity Designer 2.
+- The included `DrSugiyama` Google Font is licensed under the [Open Font License](https://fonts.google.com/specimen/Dr+Sugiyama/license).
 
 **Content Usage and Licensing:**
 
