@@ -9,7 +9,7 @@
             "url": "https://www.patreon.com/DeepResonanceWare"
         }
     ],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "compatibility": {
         "minimum": "13",
         "verified": "13",
@@ -77,5 +77,5 @@
     "url": "https://github.com/yjeroen/foundry-coriolis-modern-combat",
     "bugs": "https://github.com/yjeroen/foundry-coriolis-modern-combat/issues",
     "manifest": "https://github.com/yjeroen/foundry-coriolis-modern-combat/releases/latest/download/system.json",
-    "download": "https://github.com/yjeroen/foundry-coriolis-modern-combat/releases/download/release-1.0.0/coriolis-modern-combat-release-1.0.0.zip"
+    "download": "https://github.com/yjeroen/foundry-coriolis-modern-combat/releases/download/release-1.0.1/coriolis-modern-combat-release-1.0.1.zip"
 }
