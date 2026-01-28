@@ -21,7 +21,7 @@ _Oye Zenithians and Firstcome!_ This is a module for the RPG System `Coriolis: T
 
 This expansion modernizes the `Coriolis: The Third Horizon` combat rules, drawing inspiration from other Year Zero Engine RPGs (such as ALIEN and Coriolis: The Great Dark), as well as community house rules. It remains fully compatible with the Core Rulebook and existing Talents. It expands on the 3-action system with inspirations from Shadowrun and Pathfinder 2E, changes Darkness with random events, adjusts character advancement options, and expands the stress mechanic with panic and mental trauma.
 
-
+Also check out the (free) PDF at [DriveThruRPG > Free League Workshop > Coriolis - Modern Combat Rules](https://www.drivethrurpg.com/en/product/554761/coriolis-modern-combat-rules?affiliate_id=533040).
 
 ## Installation Instructions
 

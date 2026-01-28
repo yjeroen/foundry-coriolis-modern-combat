@@ -1,3 +1,11 @@
+## 1.0.2
+
+### Bug Fixes
+- Fix the manifest link
+
+### Data Updates
+- Minor update readmes
+
 ## 1.0.1
 
 ### Bug Fixes
