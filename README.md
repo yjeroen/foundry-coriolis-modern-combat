@@ -86,7 +86,7 @@ See [CHANGELOG](https://github.com/yjeroen/foundry-coriolis-modern-combat/blob/m
 **Project Licensing:**
 
 - All HTML, CSS and Javascript in this project is licensed under the GNU General Public License.
-- Included icons are free-license “Designed by [Freepik](www.freepik.com)” images, edited an& customized via Affinity Photo 2 and Affinity Designer 2.
+- Included icons are free-license “Designed by [Freepik](www.freepik.com)” images, edited & customized via Affinity Photo 2 and Affinity Designer 2.
 - The included `DrSugiyama` Google Font is licensed under the [Open Font License](https://fonts.google.com/specimen/Dr+Sugiyama/license).
 
 **Content Usage and Licensing:**
