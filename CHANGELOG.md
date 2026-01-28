@@ -1,3 +1,11 @@
+## 1.0.1
+
+### Bug Fixes
+- Removed old unused images
+
+### Data Updates
+- Updated readme with Freepik & Open Font Licenses
+
 ## 1.0.0
 
 ### Module Improvements
