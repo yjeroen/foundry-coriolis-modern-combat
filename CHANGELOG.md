@@ -1,3 +1,9 @@
+## 1.0.3
+
+### Data Updates
+- Update cover image
+- Update readme to 1.0.3
+
 ## 1.0.2
 
 ### Bug Fixes

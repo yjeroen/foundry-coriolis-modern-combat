@@ -11,8 +11,8 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 ![GitHub contributors](https://img.shields.io/github/contributors/yjeroen/foundry-coriolis-modern-combat)
 
-![FoundryVTT Installs Latest](https://img.shields.io/github/downloads/yjeroen/foundry-coriolis-modern-combat/coriolis-modern-combat-release-1.0.2.zip?label=FoundryVTT%20Installs%20Latest)
-![FoundryVTT Installs Previous](https://img.shields.io/github/downloads/yjeroen/foundry-coriolis-modern-combat/coriolis-modern-combat-release-1.0.1.zip?label=FoundryVTT%20Installs%20Previous)
+![FoundryVTT Installs Latest](https://img.shields.io/github/downloads/yjeroen/foundry-coriolis-modern-combat/coriolis-modern-combat-release-1.0.3.zip?label=FoundryVTT%20Installs%20Latest)
+![FoundryVTT Installs Previous](https://img.shields.io/github/downloads/yjeroen/foundry-coriolis-modern-combat/coriolis-modern-combat-release-1.0.2.zip?label=FoundryVTT%20Installs%20Previous)
 ![Forge Installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https://forge-vtt.com/api/bazaar/package/coriolis-modern-combat)
 
 _Oye Zenithians and Firstcome!_ This is a module for the RPG System `Coriolis: The Third Horizon`, for [Foundry Virtual Tabletop](http://foundryvtt.com). This module implements the alternative `Modern Combat` rules. 
@@ -92,7 +92,7 @@ See [CHANGELOG](https://github.com/yjeroen/foundry-coriolis-modern-combat/blob/m
 **Content Usage and Licensing:**
 
 - The Coriolis The Third Horizon RPG is made by Free League. This product was created under license of **Free League Workshop**. Coriolis and its logo, are trademarks of Fria Ligan AB. This work contains material that is copyright Fria Ligan AB and/or other authors. Such material is used with permission under the Community Content Agreement for Free League Workshop. All other original material in this work is copyright 2026 by yeroon and published under the Community Content Agreement for Free League Workshop.
-- The Cover art is by `ptitvinc` from deviantart [Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License]
+- The Cover art is made by AI and afterwards edited & customized via Affinity Photo 2. This will be replaced if I find a better free license artwork, or if the Pay What You Want PDF (DriveThruRPG) creates enough funds.
 
 **Virtual Table Top Platform Licenses:**
 
