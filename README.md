@@ -12,8 +12,9 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/yjeroen/foundry-coriolis-modern-combat)
 
 ![FoundryVTT Installs Latest](https://img.shields.io/github/downloads/yjeroen/foundry-coriolis-modern-combat/coriolis-modern-combat-release-1.0.3.zip?label=FoundryVTT%20Installs%20Latest)
-![FoundryVTT Installs Previous](https://img.shields.io/github/downloads/yjeroen/foundry-coriolis-modern-combat/coriolis-modern-combat-release-1.0.2.zip?label=FoundryVTT%20Installs%20Previous)
 ![Forge Installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https://forge-vtt.com/api/bazaar/package/coriolis-modern-combat)
+
+![FoundryVTT Installs Previous](https://img.shields.io/github/downloads/yjeroen/foundry-coriolis-modern-combat/coriolis-modern-combat-release-1.0.2.zip?label=FoundryVTT%20Installs%20Previous)
 
 _Oye Zenithians and Firstcome!_ This is a module for the RPG System `Coriolis: The Third Horizon`, for [Foundry Virtual Tabletop](http://foundryvtt.com). This module implements the alternative `Modern Combat` rules. 
 
